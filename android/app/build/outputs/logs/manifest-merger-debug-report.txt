@@ -1,0 +1,332 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:flutter_tts] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/flutter_tts/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:alan_voice] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/alan_voice/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [:package_info] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/da88dd17d2571460ce62d4830af514ce/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/9e616e3db101c792001b6b2e73e1b52f/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f419bf2442c9ba50831eeba89000c9a9/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/60a5f2d611abff1bdb9152290508ab48/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bc4971c868ae447be59773172b4d464f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fc8b6bbeefcfda36975c64b75f9f72ca/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2d1ee8b369a3512a36e6061d2ed872cf/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/6361069dfbfba81e3ddf5ff24398ba27/jetified-glide-4.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b69d809a7d56669e263a6dd73fa3f3e0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fead7ea2e43546ae73f7f9d07ac64f5f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f3e56fdd8e4787bcbe0cb7f18c677775/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c6d01c8c444ebd60070e8fd3602db39e/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c55ef91c26d4308e6afaf93e553ef302/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/6e82373554eac6f416a47581a6cf4f62/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bb361c9951ec30a475ef40f80e89b874/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/57910a85af155c3103487e39ce23f678/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/22596e141ed939448a45bb52248db646/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/ca6b214160bd0909b103aa12202ef51c/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2271d874344878e62b9a8e309af0c39d/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.budiyev.android:code-scanner:2.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/056b7acc628c4993960fb63e62c1e791/jetified-code-scanner-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/d7dcc752a39847821bb8cfc484f4514d/jetified-gifdecoder-4.10.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/15ddec56bd001fb2d4fc04a7d71346e8/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b6c34301107cd06a29fdce8c3ef58e3a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f15d67ff15ac844b69200ea1a0376a7a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dlasso/.gradle/caches/transforms-2/files-2.1/8384d66ac97993fac84a76f0d89157a9/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:3:4-40:19
+MERGED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-16:19
+MERGED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-16:19
+MERGED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:17:5-26:19
+MERGED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:17:5-26:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/da88dd17d2571460ce62d4830af514ce/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/da88dd17d2571460ce62d4830af514ce/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/60a5f2d611abff1bdb9152290508ab48/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/60a5f2d611abff1bdb9152290508ab48/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bc4971c868ae447be59773172b4d464f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bc4971c868ae447be59773172b4d464f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fc8b6bbeefcfda36975c64b75f9f72ca/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fc8b6bbeefcfda36975c64b75f9f72ca/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/6361069dfbfba81e3ddf5ff24398ba27/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/6361069dfbfba81e3ddf5ff24398ba27/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/22596e141ed939448a45bb52248db646/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/22596e141ed939448a45bb52248db646/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/d7dcc752a39847821bb8cfc484f4514d/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/d7dcc752a39847821bb8cfc484f4514d/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dlasso/.gradle/caches/transforms-2/files-2.1/8384d66ac97993fac84a76f0d89157a9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dlasso/.gradle/caches/transforms-2/files-2.1/8384d66ac97993fac84a76f0d89157a9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/22596e141ed939448a45bb52248db646/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:4:9-47
+	android:icon
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:5:9-43
+activity#com.example.geo_espe_app_movilidad.MainActivity
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_tts] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/flutter_tts/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_tts] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/flutter_tts/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:alan_voice] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/alan_voice/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:alan_voice] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/alan_voice/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/da88dd17d2571460ce62d4830af514ce/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/da88dd17d2571460ce62d4830af514ce/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/9e616e3db101c792001b6b2e73e1b52f/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/9e616e3db101c792001b6b2e73e1b52f/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f419bf2442c9ba50831eeba89000c9a9/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f419bf2442c9ba50831eeba89000c9a9/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/60a5f2d611abff1bdb9152290508ab48/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/60a5f2d611abff1bdb9152290508ab48/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bc4971c868ae447be59773172b4d464f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bc4971c868ae447be59773172b4d464f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fc8b6bbeefcfda36975c64b75f9f72ca/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fc8b6bbeefcfda36975c64b75f9f72ca/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2d1ee8b369a3512a36e6061d2ed872cf/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2d1ee8b369a3512a36e6061d2ed872cf/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/6361069dfbfba81e3ddf5ff24398ba27/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/6361069dfbfba81e3ddf5ff24398ba27/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b69d809a7d56669e263a6dd73fa3f3e0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b69d809a7d56669e263a6dd73fa3f3e0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fead7ea2e43546ae73f7f9d07ac64f5f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fead7ea2e43546ae73f7f9d07ac64f5f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f3e56fdd8e4787bcbe0cb7f18c677775/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f3e56fdd8e4787bcbe0cb7f18c677775/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c6d01c8c444ebd60070e8fd3602db39e/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c6d01c8c444ebd60070e8fd3602db39e/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c55ef91c26d4308e6afaf93e553ef302/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c55ef91c26d4308e6afaf93e553ef302/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/6e82373554eac6f416a47581a6cf4f62/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/6e82373554eac6f416a47581a6cf4f62/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bb361c9951ec30a475ef40f80e89b874/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/bb361c9951ec30a475ef40f80e89b874/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/57910a85af155c3103487e39ce23f678/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/57910a85af155c3103487e39ce23f678/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/22596e141ed939448a45bb52248db646/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/dlasso/.gradle/caches/transforms-2/files-2.1/22596e141ed939448a45bb52248db646/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/ca6b214160bd0909b103aa12202ef51c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/ca6b214160bd0909b103aa12202ef51c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2271d874344878e62b9a8e309af0c39d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/2271d874344878e62b9a8e309af0c39d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.budiyev.android:code-scanner:2.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/056b7acc628c4993960fb63e62c1e791/jetified-code-scanner-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.budiyev.android:code-scanner:2.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/056b7acc628c4993960fb63e62c1e791/jetified-code-scanner-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/d7dcc752a39847821bb8cfc484f4514d/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/d7dcc752a39847821bb8cfc484f4514d/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/15ddec56bd001fb2d4fc04a7d71346e8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/15ddec56bd001fb2d4fc04a7d71346e8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b6c34301107cd06a29fdce8c3ef58e3a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b6c34301107cd06a29fdce8c3ef58e3a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f15d67ff15ac844b69200ea1a0376a7a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/f15d67ff15ac844b69200ea1a0376a7a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dlasso/.gradle/caches/transforms-2/files-2.1/8384d66ac97993fac84a76f0d89157a9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dlasso/.gradle/caches/transforms-2/files-2.1/8384d66ac97993fac84a76f0d89157a9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:9:5-67
+MERGED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/android/app/src/debug/AndroidManifest.xml:6:22-64
+queries
+ADDED from [:flutter_tts] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/flutter_tts/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-13:15
+intent#action:name:android.intent.action.TTS_SERVICE
+ADDED from [:flutter_tts] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/flutter_tts/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-12:18
+action#android.intent.action.TTS_SERVICE
+ADDED from [:flutter_tts] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/flutter_tts/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:flutter_tts] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/flutter_tts/intermediates/library_manifest/debug/AndroidManifest.xml:11:21-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-76
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] /home/dlasso/Dany/App Movilidad Geo/geo_espe_app_movilidad/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-71
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.CAMERA
+ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:15:22-74
+activity#com.alan.alansdk.qr.QRScanActivity
+ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:18:9-21:54
+	android:screenOrientation
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:21:13-51
+	android:name
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:19:13-62
+service#com.alan.alansdk.AlanService
+ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:23:9-25:38
+	android:enabled
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [app.alan:sdk:4.12.0] /home/dlasso/.gradle/caches/transforms-2/files-2.1/eaef7cea9ed62365de6e0183444d0801/jetified-sdk-4.12.0/AndroidManifest.xml:24:13-56
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/826296ec37363f5fdc8e54eb92406067/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fc8b6bbeefcfda36975c64b75f9f72ca/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fc8b6bbeefcfda36975c64b75f9f72ca/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/dlasso/.gradle/caches/transforms-2/files-2.1/fc8b6bbeefcfda36975c64b75f9f72ca/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
