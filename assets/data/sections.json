@@ -1,0 +1,1106 @@
+[
+    {
+        "idSection": "1",
+        "description": "Administrativo",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "-",
+        "image":"https://infantil.espe.edu.ec/wp-content/uploads/2018/11/espe-banner-administrativo.jpg"
+    },
+    {
+        "idSection": "2",
+        "description": "Educativo",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "-",
+        "image": "https://www.eltelegrafo.com.ec/media/k2/items/cache/61d0105c25451ceda0f2ebb5d2152adf_XL.jpg"
+    },
+    {
+        "idSection": "3",
+        "description": "Institucional",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "-"
+    },
+    {
+        "idSection": "4",
+        "description": "Laboratorios",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "-"
+    },
+    {
+        "idSection": "5",
+        "description": "Servicios",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "-"
+    },
+    {
+        "idSection": "6",
+        "description": "Recreación",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "-"
+    },
+    {
+        "idSection": "7",
+        "description": "Clubs",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "-"
+    },
+    {
+        "idSection": "8",
+        "description": "Accesos",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "-"
+    },
+    {
+        "idSection": "9",
+        "description": "Unidad de Binestar Estudiantil - UBE",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P0100",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "10",
+        "description": "Información",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0200",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "11",
+        "description": "Edificio Administrativo",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0300",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "12",
+        "description": "Tesoreria",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0400",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "13",
+        "description": "Centro de Educación Continua",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P0500",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "14",
+        "description": "Federación Deportiva Militar Ecuatoriana - FEDEME",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0600",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "15",
+        "description": "Biblioteca",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0700",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "16",
+        "description": "Tecnología de Inforamción y Comunicación UTIC",
+        "floor": "Planta Baja",
+        "indication": "Bloque A",
+        "point": "P0800",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "17",
+        "description": "Admisión y Registro",
+        "floor": "Planta Baja",
+        "indication": "Bloque B",
+        "point": "P0900",
+        "ParentSection": "1"
+    },
+    {
+        "idSection": "18",
+        "description": "Instituto de Idiomas",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P1000",
+        "ParentSection": "2"
+    },
+    {
+        "idSection": "19",
+        "description": "Edificio de Investigación",
+        "floor": "-",
+        "indication": "-",
+        "point": "P1100",
+        "ParentSection": "2"
+    },
+    {
+        "idSection": "20",
+        "description": "Centro de Nanociencia y Nanotecnología - CENCINAT",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P1000",
+        "ParentSection": "2"
+    },
+    {
+        "idSection": "21",
+        "description": "Carrera de la Actividad Física, Deporte y Recreación - CAFDER",
+        "floor": "-",
+        "indication": "-",
+        "point": "P1200",
+        "ParentSection": "2"
+    },
+    {
+        "idSection": "22",
+        "description": "Biblioteca",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0700",
+        "ParentSection": "2"
+    },
+    {
+        "idSection": "23",
+        "description": "Aulas",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "2"
+    },
+    {
+        "idSection": "24",
+        "description": "Bloque A",
+        "floor": "-",
+        "indication": "Solo Bloque A",
+        "point": "P0801",
+        "ParentSection": "23"
+    },
+    {
+        "idSection": "25",
+        "description": "",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0800",
+        "ParentSection": "23"
+    },
+    {
+        "idSection": "26",
+        "description": "Bloque B",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0900",
+        "ParentSection": "23"
+    },
+    {
+        "idSection": "27",
+        "description": "Bloque C",
+        "floor": "-",
+        "indication": "-",
+        "point": "P1300",
+        "ParentSection": "23"
+    },
+    {
+        "idSection": "28",
+        "description": "Bloque D ",
+        "floor": "-",
+        "indication": "Solo Bloque D",
+        "point": "P1401",
+        "ParentSection": "23"
+    },
+    {
+        "idSection": "29",
+        "description": "",
+        "floor": "-",
+        "indication": "-",
+        "point": "P1400",
+        "ParentSection": "23"
+    },
+    {
+        "idSection": "30",
+        "description": "Bloque G",
+        "floor": "-",
+        "indication": "-",
+        "point": "P1300",
+        "ParentSection": "23"
+    },
+    {
+        "idSection": "31",
+        "description": "Bloque H",
+        "floor": "-",
+        "indication": "-",
+        "point": "P1300",
+        "ParentSection": "23"
+    },
+    {
+        "idSection": "32",
+        "description": "Auditorios",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "2"
+    },
+    {
+        "idSection": "33",
+        "description": "Auditorio 2 Thomas Edison",
+        "floor": "Primer Piso",
+        "indication": "Bloque D",
+        "point": "P1400",
+        "ParentSection": "32"
+    },
+    {
+        "idSection": "34",
+        "description": "Auditorio 1 Bloque D",
+        "floor": "Planta Baja",
+        "indication": "",
+        "point": "P1400",
+        "ParentSection": "32"
+    },
+    {
+        "idSection": "35",
+        "description": "Aula Magna Bloque B",
+        "floor": "Primer Piso",
+        "indication": "",
+        "point": "P0900",
+        "ParentSection": "32"
+    },
+    {
+        "idSection": "36",
+        "description": "Auditorio 1 Bloque A",
+        "floor": "Planta Baja",
+        "indication": "",
+        "point": "P0800",
+        "ParentSection": "32"
+    },
+    {
+        "idSection": "37",
+        "description": "Salon 2001 ",
+        "floor": "Segundo Piso",
+        "indication": "",
+        "point": "P0500",
+        "ParentSection": "32"
+    },
+    {
+        "idSection": "38",
+        "description": "Auditorio Biblioteca",
+        "floor": "Subsuelo",
+        "indication": "",
+        "point": "P0700",
+        "ParentSection": "32"
+    },
+    {
+        "idSection": "39",
+        "description": "Salon 2000",
+        "floor": "Primer Piso",
+        "indication": "",
+        "point": "P1500",
+        "ParentSection": "32"
+    },
+    {
+        "idSection": "40",
+        "description": "Departamentos Oficinas Academicas",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "2"
+    },
+    {
+        "idSection": "41",
+        "description": "Ciencias Exactas",
+        "floor": "Tercer Piso",
+        "indication": "Bloque B",
+        "point": "P0900",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "42",
+        "description": "Ciencias de la Computación ",
+        "floor": "Planta Baja",
+        "indication": "Bloque H",
+        "point": "P1300",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "43",
+        "description": "Ciencias de Energía y Mecánica",
+        "floor": "Primer Piso",
+        "indication": "Bloque B",
+        "point": "P0900",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "44",
+        "description": "Ciencias de la Tierra y la Construcción.",
+        "floor": "Primer Piso",
+        "indication": "Bloque A",
+        "point": "P0800",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "45",
+        "description": "Ciencias de la Vida y la Agricultura",
+        "floor": "Tercer Piso",
+        "indication": "Corredor Bloque A ",
+        "point": "P0800",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "46",
+        "description": "Ciencias Económicas, Administrativas y del Comercio",
+        "floor": "Segundo Piso",
+        "indication": "Bloque A",
+        "point": "P0800",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "47",
+        "description": "Seguridad y Defensa",
+        "floor": "Segundo Piso",
+        "indication": "Bloque B",
+        "point": "P0900",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "48",
+        "description": "Eléctrica, Electrónica y Telecomunicaciones",
+        "floor": "Primer Piso",
+        "indication": "Bloque B",
+        "point": "P0900",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "49",
+        "description": "Unidad de Educacion a Distancia MED",
+        "floor": "Cuarto Piso",
+        "indication": "Bloque C",
+        "point": "P1300",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "50",
+        "description": "Centro de Posgrados",
+        "floor": "Cuarto Piso",
+        "indication": "Bloque D",
+        "point": "P1400",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "51",
+        "description": "Departamento de Ciencias Humanas y Sociales",
+        "floor": "Segundo Piso",
+        "indication": "Bloque B ",
+        "point": "P0900",
+        "ParentSection": "40"
+    },
+    {
+        "idSection": "52",
+        "description": "Vestidores del Personal de Limpieza",
+        "indication": "",
+        "point": "P1600",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "53",
+        "description": "Transporte",
+        "indication": "",
+        "point": "P1700",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "54",
+        "description": "Centro de Investigación de Apliaciones Militares CICTE",
+        "floor": "Segundo Piso",
+        "indication": "Corredor Bloque B",
+        "point": "P0900",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "55",
+        "description": "Hangar CICTE ",
+        "indication": "",
+        "point": "P1800",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "56",
+        "description": "",
+        "indication": "",
+        "point": "P1801",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "57",
+        "description": "Unidad de Educación Presecial",
+        "floor": "Tercer Piso  ",
+        "indication": "Bloque A",
+        "point": "P0800",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "58",
+        "description": "Vicerrectorado de Docencia",
+        "floor": "Tercer Piso  ",
+        "indication": "Bloque A",
+        "point": "P0800",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "59",
+        "description": "Unidad de Desarrollo Educativo",
+        "floor": "Tercer Piso  ",
+        "indication": "Bloque A",
+        "point": "P0800",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "60",
+        "description": "Asociación de Servicios Público de la ESPE ASPE",
+        "floor": "Primer Piso",
+        "indication": "Corredor Bloque B",
+        "point": "P0900",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "61",
+        "description": "Asociación de Docentes e Investigadores",
+        "floor": "Segundo Piso",
+        "point": "P0500",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "62",
+        "description": "Innovativa Empresa Pública",
+        "point": "P2000",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "63",
+        "description": "Innovativa Transferencia y Desarrollo Tecnológico",
+        "point": "P2100",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "64",
+        "point": "P2101",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "65",
+        "description": "Archivo General",
+        "floor": "Planta Baja",
+        "indication": "Residencia Bloque B",
+        "point": "P2200",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "66",
+        "description": "Editorial Politecnica",
+        "point": "P2300",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "67",
+        "description": "Dirección de Servicios Universitarios ",
+        "floor": "Segundo Piso ",
+        "indication": "Residencia A",
+        "point": "P2400",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "68",
+        "description": "",
+        "point": "P2401",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "69",
+        "description": "Desarrollo Físico",
+        "floor": "Segundo Piso ",
+        "indication": "Residencia A",
+        "point": "P2400",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "70",
+        "description": "",
+        "point": "P2401",
+        "ParentSection": "3"
+    },
+    {
+        "idSection": "71",
+        "description": "Laboratorios de Energía y Mecánica ",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "4"
+    },
+    {
+        "idSection": "72",
+        "description": "Laboratorios de la Tierra y Construcción",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "4"
+    },
+    {
+        "idSection": "73",
+        "description": "Laboratorios de electrica, electronica y telecomunicaciones ",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "4"
+    },
+    {
+        "idSection": "74",
+        "description": "Laboratorios de la Vida y la Agricultura",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "4"
+    },
+    {
+        "idSection": "75",
+        "description": "Laboratorios Ciencias Exactas",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "4"
+    },
+    {
+        "idSection": "76",
+        "description": "Metrología",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P2500",
+        "ParentSection": "71"
+    },
+    {
+        "idSection": "77",
+        "description": "Mecanismos CAD CAM CAE ",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P2500",
+        "ParentSection": "71"
+    },
+    {
+        "idSection": "78",
+        "description": "Robotica Mecatrónica",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P2500",
+        "ParentSection": "71"
+    },
+    {
+        "idSection": "79",
+        "description": "Conservacion de Energía",
+        "floor": "-",
+        "indication": "-",
+        "point": "P2600",
+        "ParentSection": "71"
+    },
+    {
+        "idSection": "80",
+        "description": "Fluidos ",
+        "floor": "-",
+        "indication": "-",
+        "point": "P2600",
+        "ParentSection": "71"
+    },
+    {
+        "idSection": "81",
+        "description": "Manofactura Soladura Motores",
+        "floor": "-",
+        "indication": "-",
+        "point": "P2600",
+        "ParentSection": "71"
+    },
+    {
+        "idSection": "82",
+        "description": "Ciencia de los Materiales",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P2700",
+        "ParentSection": "71"
+    },
+    {
+        "idSection": "83",
+        "description": "Geográfica",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P2800",
+        "ParentSection": "72"
+    },
+    {
+        "idSection": "84",
+        "description": "Suelos",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P2900",
+        "ParentSection": "72"
+    },
+    {
+        "idSection": "85",
+        "description": "Ambiental",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P3000",
+        "ParentSection": "72"
+    },
+    {
+        "idSection": "86",
+        "description": "Estructuras sismoresistentes",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P1000",
+        "ParentSection": "72"
+    },
+    {
+        "idSection": "87",
+        "description": "C2 Circuitos Eléctricos ",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P3100",
+        "ParentSection": "73"
+    },
+    {
+        "idSection": "88",
+        "description": "C1 Eléctrica, Domotica",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P3100",
+        "ParentSection": "73"
+    },
+    {
+        "idSection": "89",
+        "description": "B2 Telecomunicaciones",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P3100",
+        "ParentSection": "73"
+    },
+    {
+        "idSection": "90",
+        "description": "B1 Electrónica",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P3100",
+        "ParentSection": "73"
+    },
+    {
+        "idSection": "91",
+        "description": "A Electrónica",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P3200",
+        "ParentSection": "73"
+    },
+    {
+        "idSection": "92",
+        "description": "Biotecnología Vegetal ",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P3000",
+        "ParentSection": "74"
+    },
+    {
+        "idSection": "93",
+        "description": "Biotecnología Animal",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P3300",
+        "ParentSection": "74"
+    },
+    {
+        "idSection": "94",
+        "description": "Biotecnología Docencia ",
+        "floor": "Planta Baja ",
+        "indication": "Bloque G",
+        "point": "P1300",
+        "ParentSection": "74"
+    },
+    {
+        "idSection": "95",
+        "description": "Microbiologia de Suelos",
+        "floor": "Primer Piso",
+        "indication": "-",
+        "point": "P1000",
+        "ParentSection": "74"
+    },
+    {
+        "idSection": "96",
+        "description": "Física",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P3400",
+        "ParentSection": "75"
+    },
+    {
+        "idSection": "97",
+        "description": "Química",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P3500",
+        "ParentSection": "75"
+    },
+    {
+        "idSection": "98",
+        "description": "Multidisiplinario N4",
+        "floor": "Planta Baja",
+        "indication": "-",
+        "point": "P3600",
+        "ParentSection": "75"
+    },
+    {
+        "idSection": "99",
+        "description": "Residencia Universitaria",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "100",
+        "description": "Gimnasio",
+        "floor": "-",
+        "indication": "-",
+        "point": "P3900",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "101",
+        "description": "Fogón Universitario",
+        "floor": "-",
+        "indication": "-",
+        "point": "P4000",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "102",
+        "description": "Coliseo",
+        "floor": "-",
+        "indication": "-",
+        "point": "P0600",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "103",
+        "description": "Comedores",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "104",
+        "description": "Copiadora",
+        "floor": "-",
+        "indication": "-",
+        "point": "P4500",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "105",
+        "description": "Prevención - Entrada Principal",
+        "floor": "-",
+        "indication": "-",
+        "point": "P4600",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "106",
+        "description": "Caseta de Pago Parking ",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "107",
+        "description": "Cajeros",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "108",
+        "description": "Bazar Innovativa ESPE",
+        "floor": "-",
+        "indication": "-",
+        "point": "P5000",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "109",
+        "description": "Policlínico",
+        "floor": "-",
+        "indication": "-",
+        "point": "P7200",
+        "ParentSection": "5"
+    },
+    {
+        "idSection": "110",
+        "description": "Canchas de Fútbol",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "111",
+        "description": "Cancha de Baloncesto",
+        "floor": "-",
+        "indication": "-",
+        "point": "P5400",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "112",
+        "description": "Cancha de Baloncesto",
+        "floor": "-",
+        "indication": "-",
+        "point": "P5401",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "113",
+        "description": "Cancha de Tenis",
+        "floor": "-",
+        "indication": "-",
+        "point": "P5500",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "114",
+        "description": "Cancha de Tenis",
+        "floor": "-",
+        "indication": "-",
+        "point": "P5501",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "115",
+        "description": "Cancha de Voleibol",
+        "floor": "-",
+        "indication": "-",
+        "point": "P5600",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "116",
+        "description": "Cancha de Voleibol",
+        "floor": "-",
+        "indication": "-",
+        "point": "P5601",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "117",
+        "description": "Parques",
+        "floor": "-",
+        "indication": "-",
+        "point": "-",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "118",
+        "description": "Estadio Principal",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6000",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "119",
+        "description": "Estadio Alterno",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6100",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "120",
+        "description": "Estadio Alterno",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6101",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "121",
+        "description": "Estadio Alterno",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6102",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "122",
+        "description": "Estadio Alterno",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6103",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "123",
+        "description": "Estadio Alterno",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6104",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "124",
+        "description": "Estadio Alterno",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6105",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "125",
+        "description": "Capilla",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6200",
+        "ParentSection": "6"
+    },
+    {
+        "idSection": "126",
+        "description": "Coro",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6300",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "127",
+        "description": "Ecológico",
+        "floor": "Segundo Piso ",
+        "indication": "Residencia Bloque A",
+        "point": "P2400",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "128",
+        "description": "Ecológico",
+        "floor": "Segundo Piso ",
+        "indication": "Residencia Bloque A",
+        "point": "P2401",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "129",
+        "description": "Róbotica",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6400",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "130",
+        "description": "Fotografía y Pintura",
+        "floor": "Segundo Piso ",
+        "indication": "Residencia Bloque A",
+        "point": "P2400",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "131",
+        "description": "Fotografía y Pintura",
+        "floor": "Segundo Piso ",
+        "indication": "Residencia Bloque A",
+        "point": "P2401",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "132",
+        "description": "Cerámica y Vidrio",
+        "floor": "Planta Baja",
+        "indication": "Residencia Bloque B",
+        "point": "P6500",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "133",
+        "description": "Ensable de Cuerdas",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6600",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "134",
+        "description": "Juventud ESPE",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6700",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "135",
+        "description": "ASME",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6800",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "136",
+        "description": "Danza Contemporanea",
+        "floor": "-",
+        "indication": "-",
+        "point": "P6900",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "137",
+        "description": "Gastrónomia",
+        "floor": "-",
+        "indication": "-",
+        "point": "P7000",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "138",
+        "description": "ESPE al Máximo",
+        "floor": "-",
+        "indication": "-",
+        "point": "P7100",
+        "ParentSection": "7"
+    },
+    {
+        "idSection": "139",
+        "description": "Entrada Pirncipal",
+        "floor": "-",
+        "indication": "-",
+        "point": "P1900",
+        "ParentSection": "8"
+    },
+    {
+        "idSection": "140",
+        "description": "Entrada Alterna",
+        "floor": "-",
+        "indication": "-",
+        "point": "P4400",
+        "ParentSection": "8"
+    }
+]

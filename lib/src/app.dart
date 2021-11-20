@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:geo_espe_app_movilidad/src/screens/home_page.dart';
+import 'package:geo_espe_app_movilidad/src/routes/routes_app.dart';
 
+//Configura la aplicación, como el tema, rutas, entre otros
+//@autor dflasso
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
@@ -8,11 +10,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const Center(child: HomePage()),
+      title: 'Movilidad Espe',
+      initialRoute: getInitialRoute(),
+      routes: getApplicationRoutes(),
+      onGenerateRoute: handleOnGenereteRoute,
     );
   }
 }
