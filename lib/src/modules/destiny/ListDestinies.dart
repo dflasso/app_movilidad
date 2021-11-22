@@ -7,9 +7,9 @@ import 'package:geo_espe_app_movilidad/src/providers/destienies_provider.dart';
 import 'package:provider/provider.dart';
 
 class ListDestinies extends StatelessWidget {
-  final String? parentSection = "";
+  String? parentSection;
 
-  ListDestinies(String? parentSection, {Key? key}) : super(key: key);
+  ListDestinies({this.parentSection, Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -22,9 +22,13 @@ class ListDestinies extends StatelessWidget {
         child: Swiper(
       itemWidth: size.width * 0.8,
       itemHeight: size.height * 0.6,
-      itemCount: destiniesProvider.getDestinies().length,
+      itemCount:
+          destiniesProvider.getFilterDestinies(parentSection ?? "-").length,
       layout: SwiperLayout.STACK,
       itemBuilder: (context, int index) {
+        SectionModel destiny =
+            destiniesProvider.getFilterDestinies(parentSection ?? "-")[index];
+
         return GestureDetector(
             onTap: () {
               //ir a la siguiente pagina
@@ -32,11 +36,10 @@ class ListDestinies extends StatelessWidget {
             child: ClipRRect(
               borderRadius: BorderRadius.circular(20),
               child: FadeInImage(
-                placeholder: AssetImage('assets/img/loading.gif'),
-                image: NetworkImage(
-                    'https://uth.espe.edu.ec/wp-content/uploads/2018/11/espe-banner-administrativo.jpg'),
+                placeholder: const AssetImage('assets/img/loading.gif'),
+                image: NetworkImage(destiny.image),
                 fit: BoxFit.cover,
-                fadeInDuration: Duration(milliseconds: 200),
+                fadeInDuration: const Duration(milliseconds: 200),
               ),
             ));
       },

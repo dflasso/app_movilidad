@@ -22,4 +22,10 @@ class DestiniesProvider extends ChangeNotifier {
   List<SectionModel> getDestinies() {
     return _destinies;
   }
+
+  List<SectionModel> getFilterDestinies(String parentSection) {
+    return _destinies
+        .where((element) => element.parentSection == parentSection)
+        .toList();
+  }
 }

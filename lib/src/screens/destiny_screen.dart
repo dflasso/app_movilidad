@@ -14,7 +14,7 @@ class DestinyScreen extends StatelessWidget {
       ),
       body: Container(
         decoration: getDecorationDefaultScreen(),
-        child: ListDestinies(""),
+        child: ListDestinies(parentSection: "-"),
       ),
     );
   }
