@@ -12,7 +12,7 @@ Map<String, WidgetBuilder> getApplicationRoutes() {
   return <String, WidgetBuilder>{
     'home': (BuildContext context) => const HomePage(),
     'map': (BuildContext context) => const MapScreen(),
-    'destiny': (BuildContext context) => const DestinyScreen(),
+    'destiny': (BuildContext context) => DestinyScreen(),
     'summary_travel': (BuildContext context) => const SummaryTravelScreen()
   };
 }

@@ -6,6 +6,7 @@ import 'package:geo_espe_app_movilidad/src/repositories/section_repository.dart'
 
 class DestiniesProvider extends ChangeNotifier {
   List<SectionModel> _destinies = [];
+  SectionModel? _destinySelected;
 
   DestiniesProvider() {
     //Carga los destinos por defecto en la APP
@@ -27,5 +28,13 @@ class DestiniesProvider extends ChangeNotifier {
     return _destinies
         .where((element) => element.parentSection == parentSection)
         .toList();
+  }
+
+  setDestinySelected(SectionModel destiny) {
+    _destinySelected = destiny;
+  }
+
+  SectionModel? getDestinySelected() {
+    return _destinySelected;
   }
 }
