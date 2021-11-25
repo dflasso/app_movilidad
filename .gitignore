@@ -19,3 +19,10 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+public
+.cache
+node_modules
+*DS_Store
+*.env
+
+.idea/
