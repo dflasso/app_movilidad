@@ -5,5 +5,7 @@ import 'package:flutter/rendering.dart';
 BoxDecoration getDecorationDefaultScreen() {
   return const BoxDecoration(
       image: DecorationImage(
-          image: AssetImage('assets/img/background.png'), fit: BoxFit.cover));
+    image: AssetImage('assets/img/background.png'),
+    fit: BoxFit.cover,
+  ));
 }

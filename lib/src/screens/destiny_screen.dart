@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:geo_espe_app_movilidad/src/components/app_bar_generic.dart';
+import 'package:geo_espe_app_movilidad/src/components/navigation_bar_generic.dart';
 import 'package:geo_espe_app_movilidad/src/modules/destiny/ListDestinies.dart';
 import 'package:geo_espe_app_movilidad/src/modules/destiny/destiny.dart';
 
@@ -19,13 +21,12 @@ class DestinyScreen extends StatelessWidget {
     }
 
     return Scaffold(
-      appBar: AppBar(
-        title: const Text("Destinos"),
-      ),
+      appBar: const AppBarGeneric(title: "Destinos"),
       body: Container(
         decoration: getDecorationDefaultScreen(),
         child: ListDestinies(parentSection: grSectionsTarget),
       ),
+      bottomNavigationBar: const NavigatorBarGeneric(selectedIndex: 0),
     );
   }
 }

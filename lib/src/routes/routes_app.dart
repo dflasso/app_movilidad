@@ -2,7 +2,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:geo_espe_app_movilidad/src/screens/current_location.dart';
 import 'package:geo_espe_app_movilidad/src/screens/screens.dart';
+import 'package:geo_espe_app_movilidad/src/screens/settings_screen.dart';
 
 /**
  * Mapa que contienen todas las posibles pantallas de la aplicación
@@ -12,8 +14,10 @@ Map<String, WidgetBuilder> getApplicationRoutes() {
   return <String, WidgetBuilder>{
     'home': (BuildContext context) => const HomePage(),
     'map': (BuildContext context) => const MapScreen(),
-    'destiny': (BuildContext context) => DestinyScreen(),
-    'summary_travel': (BuildContext context) => const SummaryTravelScreen()
+    'destiny': (BuildContext context) => const DestinyScreen(),
+    'summary_travel': (BuildContext context) => const SummaryTravelScreen(),
+    'current_location': (BuildContext context) => const CurrentLocation(),
+    'settings': (BuildContext context) => const SettingsScreem()
   };
 }
 

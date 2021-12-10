@@ -4,6 +4,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:geo_espe_app_movilidad/src/app.dart';
 import 'package:geo_espe_app_movilidad/src/providers/destienies_provider.dart';
+import 'package:geo_espe_app_movilidad/src/providers/geo_localization_provider.dart';
+import 'package:geo_espe_app_movilidad/src/providers/google_drive_provider.dart';
 import 'package:provider/provider.dart';
 
 class AppState extends StatelessWidget {
@@ -14,6 +16,8 @@ class AppState extends StatelessWidget {
     return MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (_) => DestiniesProvider(), lazy: false),
+        ChangeNotifierProvider(create: (_) => GoolgleProvider()),
+        ChangeNotifierProvider(create: (_) => GeoLocalizationProvider()),
       ],
       child: const MyApp(),
     );

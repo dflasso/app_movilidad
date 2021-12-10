@@ -27,3 +27,17 @@ List<SectionModel> filterSection(
       .where((element) => element.parentSection == parentSection)
       .toList();
 }
+
+SectionModel getDefaultSection() {
+  return SectionModel(
+      idSection: "xx",
+      description: "Error al obtener datos del destino",
+      floor: "-",
+      indication: "-",
+      point: ["x"],
+      parentSection: "x",
+      image: "https://via.placeholder.com/400x300",
+      sound: "sounds/destino_desconocido.mp3",
+      soundTripFinished: "sounds/viaje_finalizado.mp3",
+      hasOtherOption: false);
+}
