@@ -5,6 +5,7 @@ import 'package:geo_espe_app_movilidad/src/middlewares/whatsapp_middleware.dart'
 import 'package:geo_espe_app_movilidad/src/providers/geo_localization_provider.dart';
 import 'package:geo_espe_app_movilidad/src/theme/theme.dart';
 import 'package:provider/provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class ReportDestiniesFinished extends StatefulWidget {
   const ReportDestiniesFinished({Key? key}) : super(key: key);
@@ -36,7 +37,10 @@ class _ReportDestiniesFinishedState extends State<ReportDestiniesFinished> {
       geoLocalizationProvider!
           .createFileWithItemsHistoryTripsFinished()
           .then((historyTrips) {
-        openwhatsapp(context, historyTrips);
+        openwhatsapp(context, historyTrips).then((isSending) => {
+              launch(
+                  'mailto:crissmaster96@gmail.com?subject=Reporte_Viajes&body=$historyTrips')
+            });
       });
     }
   }
