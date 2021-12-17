@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:geo_espe_app_movilidad/src/components/title_level1.dart';
 import 'package:geo_espe_app_movilidad/src/modules/settings/report_destinies_finished.dart';
 import 'package:geo_espe_app_movilidad/src/theme/theme.dart';

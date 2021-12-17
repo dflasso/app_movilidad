@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:geo_espe_app_movilidad/src/components/dialog_simple.dart';
 
 class DialogReporterDestiniesFinished {

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:geo_espe_app_movilidad/src/theme/theme.dart';
 
 ///Boton que redirecciona al usuario a la pantalla de inicio

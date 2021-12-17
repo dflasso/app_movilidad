@@ -7,11 +7,16 @@ import 'package:geo_espe_app_movilidad/src/providers/destienies_provider.dart';
 
 import 'package:provider/provider.dart';
 
-class ListDestinies extends StatelessWidget {
-  String? parentSection;
+class ListDestinies extends StatefulWidget {
+  final String? parentSection;
 
-  ListDestinies({this.parentSection, Key? key}) : super(key: key);
+  const ListDestinies({this.parentSection, Key? key}) : super(key: key);
 
+  @override
+  State<ListDestinies> createState() => _ListDestiniesState();
+}
+
+class _ListDestiniesState extends State<ListDestinies> {
   @override
   Widget build(BuildContext context) {
     final destiniesProvider =
@@ -24,12 +29,13 @@ class ListDestinies extends StatelessWidget {
         child: Swiper(
           itemWidth: size.width * 0.8,
           itemHeight: size.height * 0.80,
-          itemCount:
-              destiniesProvider.getFilterDestinies(parentSection ?? "-").length,
+          itemCount: destiniesProvider
+              .getFilterDestinies(widget.parentSection ?? "-")
+              .length,
           layout: SwiperLayout.STACK,
           itemBuilder: (context, int index) {
             SectionModel destiny = destiniesProvider
-                .getFilterDestinies(parentSection ?? "-")[index];
+                .getFilterDestinies(widget.parentSection ?? "-")[index];
             return DestinySelected(destiny: destiny);
           },
         ));

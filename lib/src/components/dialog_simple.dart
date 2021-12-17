@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 Future<void> showMyDialogSimple(BuildContext context, String title,
     List<Widget> listBody, List<Widget> actions) async {

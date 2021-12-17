@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:geo_espe_app_movilidad/src/components/subtitle.dart';
 import 'package:geo_espe_app_movilidad/src/middlewares/whatsapp_middleware.dart';
 import 'package:geo_espe_app_movilidad/src/providers/geo_localization_provider.dart';
