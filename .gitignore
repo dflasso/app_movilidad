@@ -67,3 +67,6 @@ app.*.map.json
 /android/app/release
 
 .cache/*
+
+node_modules/*
+public/**
