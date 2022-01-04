@@ -51,6 +51,11 @@ dependencies:
   geolocator: ^8.0.1
   geocoding: ^2.0.1
   flutter_polyline_points: ^1.0.0
+  flutter_map: ^0.14.0
+  latlong2: ^0.8.1
+  webview_flutter: ^3.0.0
+  flutter_inappwebview: ^5.3.2
+  permission_handler: ^8.3.0
 
 
 dev_dependencies:

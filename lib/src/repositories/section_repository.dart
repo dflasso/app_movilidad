@@ -34,7 +34,7 @@ SectionModel getDefaultSection() {
       description: "Error al obtener datos del destino",
       floor: "-",
       indication: "-",
-      point: ["x"],
+      point: ["P0100"],
       parentSection: "x",
       image: "https://via.placeholder.com/400x300",
       sound: "sounds/destino_desconocido.mp3",
