@@ -90,7 +90,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         },
       } = data;
 
-      const finalLogoLink = logo.link !== '' ? logo.link : 'https://hasura.io/';
+      const finalLogoLink = logo.link !== '' ? logo.link : 'https://dflasso.github.io/';
 
       return (
         <div className={'navBarWrapper'}>
@@ -173,7 +173,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 {githubUrl !== '' ? (
                   <li className={'githubBtn'}>
                     <GitHubButton
-                      href={githubUrl}
+                      href="https://github.com/dflasso/app_movilidad"
                       data-show-count="true"
                       aria-label="Star on GitHub"
                     >

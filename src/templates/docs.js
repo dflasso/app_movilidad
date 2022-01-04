@@ -63,7 +63,7 @@ export default class MDXRuntimeTest extends Component {
           return { title: node.fields.title, url: node.fields.slug };
         }
       });
-
+    console.log(nav)
     // meta tags
     const metaTitle = mdx.frontmatter.metaTitle;
 
@@ -93,8 +93,8 @@ export default class MDXRuntimeTest extends Component {
           <StyledHeading>{mdx.fields.title}</StyledHeading>
           <Edit className={'mobileView'}>
             {docsLocation && (
-              <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
-                <img src={githubIcon} alt={'Github logo'} /> Edit on GitHub
+              <Link className={'gitBtn'} to="https://github.com/dflasso/app_movilidad">
+                <img src={githubIcon} alt={'Github logo'} /> See on GitHub
               </Link>
             )}
           </Edit>
