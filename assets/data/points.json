@@ -1,0 +1,604 @@
+[
+    {
+        "idPoint": "P0100",
+        "coordUtmEast": "784346.550817",
+        "coordUtmNorth": "9965143.84086",
+        "latitude": "-0.315039",
+        "length": "-78.445463"
+    },
+    {
+        "idPoint": "P0200",
+        "coordUtmEast": "784642.412515",
+        "coordUtmNorth": "9965198.51752",
+        "latitude": "-0.314544",
+        "length": "-78.442807"
+    },
+    {
+        "idPoint": "P0300",
+        "coordUtmEast": "784542.798027",
+        "coordUtmNorth": "9965199.75648",
+        "latitude": "-0.314533",
+        "length": "-78.443702"
+    },
+    {
+        "idPoint": "P0400",
+        "coordUtmEast": "784516.404392",
+        "coordUtmNorth": "9965195.57439",
+        "latitude": "-0.314571",
+        "length": "-78.443939"
+    },
+    {
+        "idPoint": "P0500",
+        "coordUtmEast": "784343.329105",
+        "coordUtmNorth": "9965144.55339",
+        "latitude": "-0.315033",
+        "length": "-78.445492"
+    },
+    {
+        "idPoint": "P0600",
+        "coordUtmEast": "784493.548166",
+        "coordUtmNorth": "9964875.16435",
+        "latitude": "-0.317467",
+        "length": "-78.444143"
+    },
+    {
+        "idPoint": "P0700",
+        "coordUtmEast": "784554.346344",
+        "coordUtmNorth": "9965265.66334",
+        "latitude": "-0.313938",
+        "length": "-78.443598"
+    },
+    {
+        "idPoint": "P0800",
+        "coordUtmEast": "784358.022129",
+        "coordUtmNorth": "9965270.37792",
+        "latitude": "-0.313895",
+        "length": "-78.445361"
+    },
+    {
+        "idPoint": "P0900",
+        "coordUtmEast": "784336.325737",
+        "coordUtmNorth": "9965241.70293",
+        "latitude": "-0.314155",
+        "length": "-78.445555"
+    },
+    {
+        "idPoint": "P1000",
+        "coordUtmEast": "784464.207513",
+        "coordUtmNorth": "9965356.63139",
+        "latitude": "-0.313116",
+        "length": "-78.444408"
+    },
+    {
+        "idPoint": "P1100",
+        "coordUtmEast": "784217.989863",
+        "coordUtmNorth": "9964764.17920",
+        "latitude": "-0.318471",
+        "length": "-78.446617"
+    },
+    {
+        "idPoint": "P1200",
+        "coordUtmEast": "784526.494550",
+        "coordUtmNorth": "9964814.78365",
+        "latitude": "-0.318013",
+        "length": "-78.443847"
+    },
+    {
+        "idPoint": "P0801",
+        "coordUtmEast": "784399.018613",
+        "coordUtmNorth": "9965220.59311",
+        "latitude": "-0.314345",
+        "length": "-78.444992"
+    },
+    {
+        "idPoint": "P1300",
+        "coordUtmEast": "784365.061874",
+        "coordUtmNorth": "9965350.80045",
+        "latitude": "-0.313168",
+        "length": "-78.445298"
+    },
+    {
+        "idPoint": "P1401",
+        "coordUtmEast": "784370.610158",
+        "coordUtmNorth": "9965406.61175",
+        "latitude": "-0.312664",
+        "length": "-78.445248"
+    },
+    {
+        "idPoint": "P1400",
+        "coordUtmEast": "784346.019284",
+        "coordUtmNorth": "9965381.42858",
+        "latitude": "-0.312892",
+        "length": "-78.445469"
+    },
+    {
+        "idPoint": "P1500",
+        "coordUtmEast": "784339.172433",
+        "coordUtmNorth": "9965150.98612",
+        "latitude": "-0.314975",
+        "length": "-78.44553"
+    },
+    {
+        "idPoint": "P1600",
+        "coordUtmEast": "784144.383968",
+        "coordUtmNorth": "9965311.00257",
+        "latitude": "-0.313529",
+        "length": "-78.447279"
+    },
+    {
+        "idPoint": "P1700",
+        "coordUtmEast": "784338.484914",
+        "coordUtmNorth": "9964679.92484",
+        "latitude": "-0.319232",
+        "length": "-78.445535"
+    },
+    {
+        "idPoint": "P1800",
+        "coordUtmEast": "784281.135167",
+        "coordUtmNorth": "9964687.90977",
+        "latitude": "-0.31916",
+        "length": "-78.44605"
+    },
+    {
+        "idPoint": "P1801",
+        "coordUtmEast": "784293.346805",
+        "coordUtmNorth": "9964685.71712",
+        "latitude": "-0.31918",
+        "length": "-78.44594"
+    },
+    {
+        "idPoint": "P2000",
+        "coordUtmEast": "784329.580990",
+        "coordUtmNorth": "9965125.12896",
+        "latitude": "-0.315208",
+        "length": "-78.445616"
+    },
+    {
+        "idPoint": "P2100",
+        "coordUtmEast": "784300.092018",
+        "coordUtmNorth": "9965337.25532",
+        "latitude": "-0.313291",
+        "length": "-78.445881"
+    },
+    {
+        "idPoint": "P2101",
+        "coordUtmEast": "784296.503047",
+        "coordUtmNorth": "9965341.73668",
+        "latitude": "-0.313251",
+        "length": "-78.445913"
+    },
+    {
+        "idPoint": "P2200",
+        "coordUtmEast": "784623.972380",
+        "coordUtmNorth": "9964891.75347",
+        "latitude": "-0.317317",
+        "length": "-78.442972"
+    },
+    {
+        "idPoint": "P2300",
+        "coordUtmEast": "784625.425868",
+        "coordUtmNorth": "9964950.43349",
+        "latitude": "-0.316787",
+        "length": "-78.442959"
+    },
+    {
+        "idPoint": "P2400",
+        "coordUtmEast": "784619.429417",
+        "coordUtmNorth": "9964954.22391",
+        "latitude": "-0.316752",
+        "length": "-78.443013"
+    },
+    {
+        "idPoint": "P2401",
+        "coordUtmEast": "784643.423400",
+        "coordUtmNorth": "9964955.93072",
+        "latitude": "-0.316737",
+        "length": "-78.442798"
+    },
+    {
+        "idPoint": "P2500",
+        "coordUtmEast": "784262.066505",
+        "coordUtmNorth": "9965171.72419",
+        "latitude": "-0.314787",
+        "length": "-78.446222"
+    },
+    {
+        "idPoint": "P2600",
+        "coordUtmEast": "784254.456103",
+        "coordUtmNorth": "9965333.52262",
+        "latitude": "-0.313325",
+        "length": "-78.446291"
+    },
+    {
+        "idPoint": "P2700",
+        "coordUtmEast": "784262.798872",
+        "coordUtmNorth": "9965168.37467",
+        "latitude": "-0.314818",
+        "length": "-78.446215"
+    },
+    {
+        "idPoint": "P2800",
+        "coordUtmEast": "784254.263160",
+        "coordUtmNorth": "9965171.55581",
+        "latitude": "-0.314789",
+        "length": "-78.446292"
+    },
+    {
+        "idPoint": "P2900",
+        "coordUtmEast": "784474.737026",
+        "coordUtmNorth": "9965327.21574",
+        "latitude": "-0.313381",
+        "length": "-78.444313"
+    },
+    {
+        "idPoint": "P3000",
+        "coordUtmEast": "784325.259205",
+        "coordUtmNorth": "9965438.82261",
+        "latitude": "-0.312373",
+        "length": "-78.445655"
+    },
+    {
+        "idPoint": "P3100",
+        "coordUtmEast": "784299.710934",
+        "coordUtmNorth": "9965441.53736",
+        "latitude": "-0.312349",
+        "length": "-78.445885"
+    },
+    {
+        "idPoint": "P3200",
+        "coordUtmEast": "784324.407111",
+        "coordUtmNorth": "9965435.83512",
+        "latitude": "-0.3124",
+        "length": "-78.445663"
+    },
+    {
+        "idPoint": "P3300",
+        "coordUtmEast": "784325.152919",
+        "coordUtmNorth": "9965443.72191",
+        "latitude": "-0.312329",
+        "length": "-78.445656"
+    },
+    {
+        "idPoint": "P3400",
+        "coordUtmEast": "784457.436909",
+        "coordUtmNorth": "9965368.63270",
+        "latitude": "-0.313007",
+        "length": "-78.444468"
+    },
+    {
+        "idPoint": "P3500",
+        "coordUtmEast": "784431.594729",
+        "coordUtmNorth": "9965371.97504",
+        "latitude": "-0.312977",
+        "length": "-78.4447"
+    },
+    {
+        "idPoint": "P3600",
+        "coordUtmEast": "784430.780571",
+        "coordUtmNorth": "9965361.37659",
+        "latitude": "-0.313073",
+        "length": "-78.444708"
+    },
+    {
+        "idPoint": "P3700",
+        "coordUtmEast": "784619.429417",
+        "coordUtmNorth": "9964954.22391",
+        "latitude": "-0.316752",
+        "length": "-78.443013"
+    },
+    {
+        "idPoint": "P3800",
+        "coordUtmEast": "784617.555790",
+        "coordUtmNorth": "9964852.97077",
+        "latitude": "-0.317667",
+        "length": "-78.44303"
+    },
+    {
+        "idPoint": "P3900",
+        "coordUtmEast": "784527.107949",
+        "coordUtmNorth": "9964844.25186",
+        "latitude": "-0.317746",
+        "length": "-78.443842"
+    },
+    {
+        "idPoint": "P4000",
+        "coordUtmEast": "784638.143726",
+        "coordUtmNorth": "9964810.69339",
+        "latitude": "-0.31805",
+        "length": "-78.442845"
+    },
+    {
+        "idPoint": "P4100",
+        "coordUtmEast": "784329.444067",
+        "coordUtmNorth": "9965165.78026",
+        "latitude": "-0.314841",
+        "length": "-78.445617"
+    },
+    {
+        "idPoint": "P4200",
+        "coordUtmEast": "784610.788845",
+        "coordUtmNorth": "9964827.37868",
+        "latitude": "-0.317899",
+        "length": "-78.44309"
+    },
+    {
+        "idPoint": "P4300",
+        "coordUtmEast": "784555.374653",
+        "coordUtmNorth": "9964881.23034",
+        "latitude": "-0.317412",
+        "length": "-78.443588"
+    },
+    {
+        "idPoint": "P4500",
+        "coordUtmEast": "784349.577072",
+        "coordUtmNorth": "9965153.13896",
+        "latitude": "-0.314955",
+        "length": "-78.445436"
+    },
+    {
+        "idPoint": "P4600",
+        "coordUtmEast": "784689.362780",
+        "coordUtmNorth": "9965164.47667",
+        "latitude": "-0.314852",
+        "length": "-78.442386"
+    },
+    {
+        "idPoint": "P4700",
+        "coordUtmEast": "784627.791026",
+        "coordUtmNorth": "9965223.71189",
+        "latitude": "-0.314317",
+        "length": "-78.442939"
+    },
+    {
+        "idPoint": "P4800",
+        "coordUtmEast": "784704.928103",
+        "coordUtmNorth": "9965192.11519",
+        "latitude": "-0.314602",
+        "length": "-78.442246"
+    },
+    {
+        "idPoint": "P4900",
+        "coordUtmEast": "784694.046073",
+        "coordUtmNorth": "9965134.07802",
+        "latitude": "-0.315127",
+        "length": "-78.442344"
+    },
+    {
+        "idPoint": "P5000",
+        "coordUtmEast": "784339.706495",
+        "coordUtmNorth": "9965143.78069",
+        "latitude": "-0.31504",
+        "length": "-78.445525"
+    },
+    {
+        "idPoint": "P7200",
+        "coordUtmEast": "784591.246197",
+        "coordUtmNorth": "9965351.50371",
+        "latitude": "-0.313162",
+        "length": "-78.443267"
+    },
+    {
+        "idPoint": "P5100",
+        "coordUtmEast": "784179.477107",
+        "coordUtmNorth": "9965236.05448",
+        "latitude": "-0.314206",
+        "length": "-78.446964"
+    },
+    {
+        "idPoint": "P5101",
+        "coordUtmEast": "784204.656887",
+        "coordUtmNorth": "9965293.54357",
+        "latitude": "-0.313686",
+        "length": "-78.446738"
+    },
+    {
+        "idPoint": "P5102",
+        "coordUtmEast": "784256.483950",
+        "coordUtmNorth": "9965193.48332",
+        "latitude": "-0.314591",
+        "length": "-78.446272"
+    },
+    {
+        "idPoint": "P5103",
+        "coordUtmEast": "784264.600293",
+        "coordUtmNorth": "9965294.11782",
+        "latitude": "-0.313681",
+        "length": "-78.446199"
+    },
+    {
+        "idPoint": "P5200",
+        "coordUtmEast": "784494.247216",
+        "coordUtmNorth": "9965137.74765",
+        "latitude": "-0.315094",
+        "length": "-78.444137"
+    },
+    {
+        "idPoint": "P5300",
+        "coordUtmEast": "784619.783711",
+        "coordUtmNorth": "9965299.58258",
+        "latitude": "-0.313631",
+        "length": "-78.443011"
+    },
+    {
+        "idPoint": "P5400",
+        "coordUtmEast": "784499.518160",
+        "coordUtmNorth": "9964937.42013",
+        "latitude": "-0.316904",
+        "length": "-78.44409"
+    },
+    {
+        "idPoint": "P5401",
+        "coordUtmEast": "784507.401633",
+        "coordUtmNorth": "9965119.12721",
+        "latitude": "-0.315262",
+        "length": "-78.444019"
+    },
+    {
+        "idPoint": "P5500",
+        "coordUtmEast": "784470.577475",
+        "coordUtmNorth": "9964977.48762",
+        "latitude": "-0.316542",
+        "length": "-78.44435"
+    },
+    {
+        "idPoint": "P5501",
+        "coordUtmEast": "784477.173710",
+        "coordUtmNorth": "9965043.25740",
+        "latitude": "-0.315948",
+        "length": "-78.44429"
+    },
+    {
+        "idPoint": "P5600",
+        "coordUtmEast": "784528.084449",
+        "coordUtmNorth": "9964961.76723",
+        "latitude": "-0.316684",
+        "length": "-78.443833"
+    },
+    {
+        "idPoint": "P5601",
+        "coordUtmEast": "784533.022999",
+        "coordUtmNorth": "9965080.26550",
+        "latitude": "-0.315613",
+        "length": "-78.443789"
+    },
+    {
+        "idPoint": "P5700",
+        "coordUtmEast": "784373.004816",
+        "coordUtmNorth": "9965327.00846",
+        "latitude": "-0.313384",
+        "length": "-78.445226"
+    },
+    {
+        "idPoint": "P5800",
+        "coordUtmEast": "784550.713163",
+        "coordUtmNorth": "9965004.98529",
+        "latitude": "-0.316294",
+        "length": "-78.44363"
+    },
+    {
+        "idPoint": "P5801",
+        "coordUtmEast": "784553.976762",
+        "coordUtmNorth": "9965044.01899",
+        "latitude": "-0.315941",
+        "length": "-78.443601"
+    },
+    {
+        "idPoint": "P5802",
+        "coordUtmEast": "784559.688925",
+        "coordUtmNorth": "9965023.61372",
+        "latitude": "-0.316125",
+        "length": "-78.44355"
+    },
+    {
+        "idPoint": "P5900",
+        "coordUtmEast": "784284.170067",
+        "coordUtmNorth": "9965213.32900",
+        "latitude": "-0.314411",
+        "length": "-78.446024"
+    },
+    {
+        "idPoint": "P5901",
+        "coordUtmEast": "784307.569796",
+        "coordUtmNorth": "9965229.26612",
+        "latitude": "-0.314267",
+        "length": "-78.445814"
+    },
+    {
+        "idPoint": "P5902",
+        "coordUtmEast": "784309.214101",
+        "coordUtmNorth": "9965194.35625",
+        "latitude": "-0.314583",
+        "length": "-78.445799"
+    },
+    {
+        "idPoint": "P5903",
+        "coordUtmEast": "784327.477683",
+        "coordUtmNorth": "9965210.24299",
+        "latitude": "-0.314439",
+        "length": "-78.445635"
+    },
+    {
+        "idPoint": "P6000",
+        "coordUtmEast": "784218.750892",
+        "coordUtmNorth": "9964866.41720",
+        "latitude": "-0.317547",
+        "length": "-78.44661"
+    },
+    {
+        "idPoint": "P6100",
+        "coordUtmEast": "784358.593411",
+        "coordUtmNorth": "9965056.59290",
+        "latitude": "-0.315828",
+        "length": "-78.445355"
+    },
+    {
+        "idPoint": "P6101",
+        "coordUtmEast": "784397.198738",
+        "coordUtmNorth": "9964953.86877",
+        "latitude": "-0.316756",
+        "length": "-78.445008"
+    },
+    {
+        "idPoint": "P6102",
+        "coordUtmEast": "784429.351946",
+        "coordUtmNorth": "9964987.91851",
+        "latitude": "-0.316448",
+        "length": "-78.44472"
+    },
+    {
+        "idPoint": "P6103",
+        "coordUtmEast": "784434.559203",
+        "coordUtmNorth": "9965040.21502",
+        "latitude": "-0.315975",
+        "length": "-78.444673"
+    },
+    {
+        "idPoint": "P6104",
+        "coordUtmEast": "784435.509019",
+        "coordUtmNorth": "9964987.25956",
+        "latitude": "-0.316454",
+        "length": "-78.444664"
+    },
+    {
+        "idPoint": "P6105",
+        "coordUtmEast": "784440.437295",
+        "coordUtmNorth": "9965039.63400",
+        "latitude": "-0.315981",
+        "length": "-78.44462"
+    },
+    {
+        "idPoint": "P6200",
+        "coordUtmEast": "784462.759254",
+        "coordUtmNorth": "9965485.93321",
+        "latitude": "-0.311947",
+        "length": "-78.444421"
+    },
+    {
+        "idPoint": "P6500",
+        "coordUtmEast": "784622.464546",
+        "coordUtmNorth": "9964863.30872",
+        "latitude": "-0.317574",
+        "length": "-78.442986"
+    },
+    {
+        "idPoint": "P7000",
+        "coordUtmEast": "784586.533551",
+        "coordUtmNorth": "9964815.21629",
+        "latitude": "-0.318009",
+        "length": "-78.443308"
+    },
+    {
+        "idPoint": "P1900",
+        "coordUtmEast": "784654.622005",
+        "coordUtmNorth": "9965150.90972",
+        "latitude": "-0.314975",
+        "length": "-78.442698"
+    },
+    {
+        "idPoint": "P4400",
+        "coordUtmEast": "784112.604232",
+        "coordUtmNorth": "9964796.22457",
+        "latitude": "-0.318181",
+        "length": "-78.447563"
+    }
+]
