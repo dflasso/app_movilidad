@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:geo_espe_app_movilidad/src/components/navigation_bar_generic.dart';
 import 'package:geo_espe_app_movilidad/src/modules/home/index.dart';
 
 // ignore: slash_for_doc_comments
@@ -20,7 +19,6 @@ class HomePage extends StatelessWidget {
                 image: AssetImage('assets/img/Home_Background.png'),
                 fit: BoxFit.cover)),
       ),
-      bottomNavigationBar: const NavigatorBarGeneric(selectedIndex: 0),
     );
   }
 }

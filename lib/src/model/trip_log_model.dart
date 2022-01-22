@@ -3,6 +3,7 @@
 //     final tripLog = tripLogFromJson(jsonString);
 
 import 'dart:convert';
+import 'package:geo_espe_app_movilidad/src/util/nmea_generator.dart';
 import 'package:location/location.dart';
 
 TripLog tripLogFromJson(String str) => TripLog.fromJson(json.decode(str));
@@ -88,17 +89,8 @@ class TripLog {
       };
 
   String toNmea() {
-    DateTime date = DateTime.fromMillisecondsSinceEpoch(time.round());
-
-    double latAsMinutes = latitude * 60;
-    String directionLat = latitude >= 0 ? 'N' : 'S';
-    latAsMinutes = -((latAsMinutes).abs());
-
-    double lonAsMinutes = longitude * 60;
-    String directionLon = longitude >= 0 ? 'E' : 'W';
-    lonAsMinutes = -((lonAsMinutes).abs());
-
-    return '''\$GPGGA,${date.minute.toDouble()},$latAsMinutes,$directionLat,$lonAsMinutes,$directionLon,1,${satelliteNumber.round()},0.0,$altitude,M,,,, \n\n''';
+    NmeaGenerator nmeaGenerator = NmeaGenerator(tripLog: this);
+    return nmeaGenerator.generate();
   }
 
   static Map<String, dynamic> buildFromLocationData(LocationData locationData) {
