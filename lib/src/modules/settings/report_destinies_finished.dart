@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:geo_espe_app_movilidad/src/components/subtitle.dart';
-import 'package:geo_espe_app_movilidad/src/middlewares/whatsapp_middleware.dart';
+//import 'package:geo_espe_app_movilidad/src/middlewares/whatsapp_middleware.dart';
 import 'package:geo_espe_app_movilidad/src/providers/geo_localization_provider.dart';
 import 'package:geo_espe_app_movilidad/src/theme/theme.dart';
 import 'package:provider/provider.dart';
@@ -36,10 +36,11 @@ class _ReportDestiniesFinishedState extends State<ReportDestiniesFinished> {
       geoLocalizationProvider!
           .createFileWithItemsHistoryTripsFinished()
           .then((historyTrips) {
-        openwhatsapp(context, historyTrips).then((isSending) => {
-              launch(
-                  'mailto:crissmaster96@gmail.com?subject=Reporte_Viajes&body=$historyTrips')
-            });
+        launch(
+            'mailto:crissmaster96@gmail.com?subject=Reporte_Viajes&body=$historyTrips');
+        // openwhatsapp(context, historyTrips).then((isSending) => {
+
+        //     });
       });
     }
   }
