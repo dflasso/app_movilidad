@@ -1,9 +1,13 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/widgets.dart';
 import 'package:geo_espe_app_movilidad/src/components/title_level1.dart';
+import 'package:geo_espe_app_movilidad/src/model/point_model.dart';
 import 'package:geo_espe_app_movilidad/src/model/section_model.dart';
 import 'package:geo_espe_app_movilidad/src/providers/destienies_provider.dart';
+import 'package:geo_espe_app_movilidad/src/providers/points_provider.dart';
+import 'package:geo_espe_app_movilidad/src/repositories/section_repository.dart';
 import 'package:provider/provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class DestinySelected extends StatelessWidget {
   final SectionModel destiny;
@@ -17,6 +21,8 @@ class DestinySelected extends StatelessWidget {
     final size = MediaQuery.of(context).size;
 
     final AudioCache audioCache = AudioCache();
+
+    final pointsProvider = Provider.of<PointsProvider>(context, listen: true);
 
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
@@ -32,7 +38,12 @@ class DestinySelected extends StatelessWidget {
               ///Si el destino no tiene subdestino se direcciona al usuario al mapa
               if (subSections.isEmpty) {
                 destiniesProvider.setDestinySelected(destiny);
-                Navigator.pushNamed(context, "map");
+                //Navigator.pushNamed(context, "map");4
+                pointsProvider.destiny = destiny;
+
+                PointModel pointSelected = pointsProvider.pointDestinySelected;
+                launch(
+                    'https://app-movilidad-map.vercel.app/google_maps?destinationLatitude=${pointSelected.latitude}&destinationLongitude=${pointSelected.length}');
               } else {
                 ///Si el destino tiene subdestino se despliega los subdestinos disponibles
                 Navigator.pushNamed(context, "destiny",
