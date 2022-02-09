@@ -21,7 +21,7 @@ class _MapScreenState extends State<MapScreen> {
         decoration: getDecorationDefaultScreen(),
         child: const MapView(),
       ),
-      floatingActionButton: const BtnFinishTrip(),
+      // floatingActionButton: const BtnFinishTrip(),
       bottomNavigationBar: const NavigatorBarGeneric(selectedIndex: 0),
     );
   }

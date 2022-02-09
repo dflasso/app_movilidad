@@ -1,3 +1,4 @@
+import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:geo_espe_app_movilidad/src/theme/theme.dart';
 
@@ -11,6 +12,7 @@ class NavigatorBarGeneric extends StatefulWidget {
 }
 
 class _NavigatorBarGenericState extends State<NavigatorBarGeneric> {
+  final AudioCache audioCache = AudioCache();
   int selectedIndex = 0;
 
   @override
@@ -25,15 +27,19 @@ class _NavigatorBarGenericState extends State<NavigatorBarGeneric> {
     });
     switch (index) {
       case 0:
+        audioCache.play("sounds/seleccion_destino.mp3");
         Navigator.pushNamed(context, "destiny");
         break;
       case 1:
+        audioCache.play("sounds/ubicacion_actual.mp3");
         Navigator.pushNamed(context, "current_location");
         break;
       case 2:
+        audioCache.play("sounds/configuraciones.mp3");
         Navigator.pushNamed(context, "settings");
         break;
       default:
+        audioCache.play("sounds/seleccion_destino.mp3");
         Navigator.pushNamed(context, "destiny");
     }
   }

@@ -43,7 +43,7 @@ class _MapViewState extends State<MapView> {
     return InAppWebView(
       initialUrlRequest: URLRequest(
           url: Uri.parse(
-              "https://app-movilidad-map.vercel.app/?destinationLatitude=${pointSelected.latitude}&destinationLongitude=${pointSelected.length}")),
+              "https://app-movilidad-map.vercel.app/google_maps?destinationLatitude=${pointSelected.latitude}&destinationLongitude=${pointSelected.length}")),
       androidOnGeolocationPermissionsShowPrompt:
           (InAppWebViewController controller, String origin) async {
         bool? result = await showDialog<bool>(

@@ -1,5 +1,4 @@
-const _imageDefault =
-    "https://www.universidades.com.ec/logos/original/logo-universidad-de-las-fuerzas-armadas.png";
+const _imageDefault = "assets/img/loading.gif";
 const _soundSectionDefault = "sounds/destino_desconocido.mp3";
 const _soundTripFinishedDefault = "sounds/viaje_finalizado.mp3";
 

@@ -93,8 +93,10 @@ class TripLog {
     return nmeaGenerator.generate();
   }
 
-  static Map<String, dynamic> buildFromLocationData(LocationData locationData) {
+  static Map<String, dynamic> buildFromLocationData(
+      LocationData locationData, String id) {
     return <String, dynamic>{
+      "id": id,
       "latitude": locationData.latitude ?? 0.0,
       "longitude": locationData.longitude ?? 0.0,
       "accuracy": locationData.accuracy ?? 0.0,
