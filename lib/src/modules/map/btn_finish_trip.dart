@@ -12,9 +12,9 @@ class _BtnFinishTripState extends State<BtnFinishTrip> {
   @override
   Widget build(BuildContext context) {
     return FloatingActionButton(
-      onPressed: () => Navigator.pushNamed(context, "summary_travel"),
-      child: const Icon(Icons.cancel),
-      backgroundColor: Pallette.error.light,
+      onPressed: () => Navigator.pushNamed(context, "settings"),
+      child: const Icon(Icons.save),
+      backgroundColor: Pallette.primary.dark,
     );
   }
 }

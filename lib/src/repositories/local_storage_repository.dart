@@ -10,7 +10,7 @@ class LocalStorageRepository {
     _db
         .collection('historyTrips')
         .doc(id)
-        .set(TripLog.buildFromLocationData(locationData));
+        .set(TripLog.buildFromLocationData(locationData, id));
   }
 
   Future<List<TripLog>> getAllItemsHistoryTripsFinished() async {
@@ -26,13 +26,15 @@ class LocalStorageRepository {
   }
 
   Future<void> deleteAll() async {
-    // Map<String, dynamic>? items =
-    //     await _db.collection('historyTrips').get() ?? <String, dynamic>{};
+    Map<String, dynamic>? items =
+        await _db.collection('historyTrips').get() ?? <String, dynamic>{};
 
-    // for (var element in items.entries) {
-    //   _db.collection('historyTrips').doc(element.value).delete();
-    // }
+    TripLog tripLog;
+    for (var element in items.entries) {
+      tripLog = TripLog.fromJson(element.value);
+      _db.collection('historyTrips').doc(tripLog.id).delete();
+    }
 
-    _db.collection('historyTrips').doc().delete();
+    //_db.collection('historyTrips').doc().delete();
   }
 }

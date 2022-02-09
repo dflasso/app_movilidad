@@ -5,7 +5,6 @@ import 'package:geo_espe_app_movilidad/src/model/point_model.dart';
 import 'package:geo_espe_app_movilidad/src/model/section_model.dart';
 import 'package:geo_espe_app_movilidad/src/providers/destienies_provider.dart';
 import 'package:geo_espe_app_movilidad/src/providers/points_provider.dart';
-import 'package:geo_espe_app_movilidad/src/repositories/section_repository.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -58,9 +57,9 @@ class DestinySelected extends StatelessWidget {
                 height: size.height * 0.70,
                 width: size.width * 0.85,
                 placeholder: const AssetImage('assets/img/loading.gif'),
-                image: NetworkImage(destiny.image),
+                image: AssetImage(destiny.image),
                 fit: BoxFit.cover,
-                fadeInDuration: const Duration(milliseconds: 100),
+                // fadeInDuration: const Duration(milliseconds: 100),
               ),
             ))
       ],

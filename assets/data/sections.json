@@ -6,7 +6,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "-",
-        "image":"http://lugares-embelmaticos-de-la-espe.wdfiles.com/local--files/main:lugares-emblematicos/Edificio%20administrativo.jpg",
+        "image":"assets/img/Administrativo.png",
         "sound" : "sounds/seccion_administrativa.mp3"
     },
     {
@@ -16,7 +16,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "-",
-        "image": "https://www.ultimasnoticias.ec/files/article_main/uploads/2019/06/19/5d0a45cf4c6de.jpeg",
+        "image": "assets/img/Educativo.png",
         "sound" : "sounds/seccion_educativa.mp3"
     },
     {
@@ -26,7 +26,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "-",
-        "image": "https://www.ultimasnoticias.ec/files/article_main/uploads/2019/06/19/5d0a45cf4c6de.jpeg",
+        "image": "assets/img/Institucional.png",
         "sound" : "sounds/seccion_institucional.mp3"
     },
     {
@@ -36,7 +36,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "-",
-        "image": "https://i.ytimg.com/vi/09eBTFKfuIU/maxresdefault.jpg",
+        "image": "assets/img/Laboratorios.png",
         "sound" : "sounds/seccion_laboratorios.mp3"
     },
     {
@@ -46,7 +46,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "-",
-        "image": "https://decem.espe.edu.ec/wp-content/uploads/2020/12/CATALOGO-DE-SERVICOStercera-edicion.jpg",
+        "image": "assets/img/Servicios.png",
         "sound" : "sounds/seccion_servicios.mp3"
     },
     {
@@ -56,7 +56,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "-",
-        "image": "https://mapio.net/images-p/106308490.jpg",
+        "image": "assets/img/Recreacion.png",
         "sound" : "sounds/seccion_recreacion.mp3"
     },
     {
@@ -66,7 +66,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "-",
-        "image": "https://ube.espe.edu.ec/wp-content/uploads/2018/11/espe-clubes-estudiantiles-1.jpg",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/seccion_clubs_universitarios.mp3"
     },
     {
@@ -76,7 +76,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "-",
-        "image": "https://www.espe.edu.ec/wp-content/uploads/2021/03/Espe-Matriz-Sangolqui.gif",
+        "image": "assets/img/Accesos.png",
         "sound" : "sounds/seccion_accesos.mp3"
     },
     {
@@ -86,6 +86,7 @@
         "indication": "-",
         "point": ["P0100"],
         "ParentSection": "1",
+        "image":"assets/img/1-UBE.JPG",
         "sound" : "sounds/1-UBE.mp3"
     },
     {
@@ -95,6 +96,7 @@
         "indication": "-",
         "point": ["P0200"],
         "ParentSection": "1",
+        "image":"assets/img/1-Información.JPG",
         "sound" : "sounds/1-informacion.mp3"
     },
     {
@@ -104,6 +106,7 @@
         "indication": "-",
         "point": ["P0300"],
         "ParentSection": "1",
+        "image":"assets/img/1-Edificio-Administrativo.JPG",
         "sound" : "sounds/1-edificio_administrativo.mp3"
     },
     {
@@ -113,6 +116,7 @@
         "indication": "-",
         "point": ["P0400"],
         "ParentSection": "1",
+        "image":"assets/img/1-Tesoreria.JPG",
         "sound" : "sounds/1-tesoreria.mp3"
     },
     {
@@ -122,6 +126,7 @@
         "indication": "-",
         "point": ["P0500"],
         "ParentSection": "1",
+        "image":"assets/img/1-Centro_Educación_ Continua.JPG",
         "sound" : "sounds/1-educacion_continua.mp3"
     },
     {
@@ -131,6 +136,7 @@
         "indication": "-",
         "point": ["P0600"],
         "ParentSection": "1",
+        "image":"assets/img/1-Federación_Deportiva_Militar_Ecuatoriana_FEDEME.JPG",
         "sound" : "sounds/1-FEDEME.mp3"
     },
     {
@@ -140,6 +146,7 @@
         "indication": "-",
         "point": ["P0700"],
         "ParentSection": "1",
+        "image":"assets/img/1-Biblioteca.JPG",
         "sound" : "sounds/1-Biblioteca.mp3"
     },
     {
@@ -149,6 +156,7 @@
         "indication": "Bloque A",
         "point": ["P0800"],
         "ParentSection": "1",
+        "image":"assets/img/1-UTIC.JPG",
         "sound" : "sounds/1-UTIC.mp3"
     },
     {
@@ -158,6 +166,7 @@
         "indication": "Bloque B",
         "point": ["P0900"],
         "ParentSection": "1",
+        "image":"assets/img/1-Admisión_Registro.JPG",
         "sound" : "sounds/1-UAR.mp3"
     },
     {
@@ -167,6 +176,7 @@
         "indication": "-",
         "point": ["P1000"],
         "ParentSection": "2",
+        "image": "assets/img/2-Instituto_Idiomas.JPG",
         "sound" : "sounds/2-Idiomas.mp3"
     },
     {
@@ -176,6 +186,7 @@
         "indication": "-",
         "point": ["P1100"],
         "ParentSection": "2",
+        "image": "assets/img/2-Edificio_Investigación.JPG",
         "sound" : "sounds/2-edificio_investigacion.mp3"
     },
     {
@@ -185,6 +196,7 @@
         "indication": "-",
         "point": ["P1000"],
         "ParentSection": "2",
+        "image": "assets/img/2-CENCINAT.JPG",
         "sound" : "sounds/2-CENCINAT.mp3"
     },
     {
@@ -194,6 +206,7 @@
         "indication": "-",
         "point": ["P1200"],
         "ParentSection": "2",
+        "image": "assets/img/2-CAFDER.JPG",
         "sound" : "sounds/2-CAFDER.mp3"
     },
     {
@@ -203,6 +216,7 @@
         "indication": "-",
         "point": ["P0700"],
         "ParentSection": "2",
+        "image": "assets/img/2-Biblioteca.JPG",
         "sound" : "sounds/1-Biblioteca.mp3"
     },
     {
@@ -212,6 +226,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "2",
+        "image": "assets/img/2-Aulas.png",
         "sound" : "sounds/2-Aulas.mp3"
     },
     {
@@ -221,6 +236,7 @@
         "indication": "Solo Bloque A",
         "point": ["P0801" , "P0800"],
         "ParentSection": "23",
+        "image": "assets/img/23-Bloque_A.JPG",
         "sound" : "sounds/23-Bloque_A.mp3"
     },
     {
@@ -230,6 +246,7 @@
         "indication": "-",
         "point": ["P0900"],
         "ParentSection": "23",
+        "image": "assets/img/23-Bloque_B.JPG",
         "sound" : "sounds/23-Bloque_B.mp3"
     },
     {
@@ -239,6 +256,7 @@
         "indication": "-",
         "point": ["P1300"],
         "ParentSection": "23",
+        "image": "assets/img/23-Bloque_C.JPG",
         "sound" : "sounds/23-Bloque_C.mp3"
     },
     {
@@ -248,6 +266,7 @@
         "indication": "Solo Bloque D",
         "point": ["P1401" , "P1400"],
         "ParentSection": "23",
+        "image": "assets/img/23-Bloque_D.JPG",
         "sound" : "sounds/23-Bloque_D.mp3"
     },
     {
@@ -257,6 +276,7 @@
         "indication": "-",
         "point": ["P1300"],
         "ParentSection": "23",
+        "image": "assets/img/23-Bloque_G.JPG",
         "sound" : "sounds/23-Bloque_G.mp3"
     },
     {
@@ -266,6 +286,7 @@
         "indication": "-",
         "point": ["P1300"],
         "ParentSection": "23",
+        "image": "assets/img/23-Bloque_H.JPG",
         "sound" : "sounds/23-Bloque_H.mp3"
     },
     {
@@ -275,6 +296,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "2",
+        "image": "assets/img/2-Auditorio.png",
         "sound" : "sounds/2-Auditorios.mp3"
     },
     {
@@ -284,6 +306,7 @@
         "indication": "Bloque D",
         "point": ["P1400"],
         "ParentSection": "32",
+        "image": "assets/img/32-Auditorio_2_Thomas_Edison.JPG",
         "sound" : "sounds/2-Auditorio_2.mp3"
     },
     {
@@ -293,6 +316,7 @@
         "indication": "",
         "point": ["P1400"],
         "ParentSection": "32",
+        "image": "assets/img/32-Auditorio_1_Bloque D.JPG",
         "sound" : "sounds/32-Auditorio _1.mp3"
     },
     {
@@ -302,6 +326,7 @@
         "indication": "",
         "point": ["P0900"],
         "ParentSection": "32",
+        "image": "assets/img/32-Aula_Magna_Bloque_B.JPG",
         "sound" : "sounds/32-Aula_Magna.mp3"
     },
     {
@@ -311,6 +336,7 @@
         "indication": "",
         "point": ["P0800"],
         "ParentSection": "32",
+        "image": "assets/img/32-Auditorio_1_Bloque A.JPG",
         "sound" : "sounds/32-Auditorio_1_Bloque_A.mp3"
     },
     {
@@ -320,6 +346,7 @@
         "indication": "",
         "point": ["P0500"],
         "ParentSection": "32",
+        "image": "assets/img/32-Salón_2001.JPG",
         "sound" : "sounds/32-Salon_2001.mp3"
     },
     {
@@ -329,6 +356,7 @@
         "indication": "",
         "point": ["P0700"],
         "ParentSection": "32",
+        "image": "assets/img/32-Auditorio_Biblioteca.JPG",
         "sound" : "sounds/32-Auditorio_Biblioteca.mp3"
     },
     {
@@ -338,6 +366,7 @@
         "indication": "",
         "point": ["P1500"],
         "ParentSection": "32",
+        "image": "assets/img/32-Salón_2000.JPG",
         "sound" : "sounds/32-Salon_2000.mp3"
     },
     {
@@ -347,6 +376,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "2",
+        "image": "assets/img/2-Departamentos_Oficinas_Academicas.png",
         "sound" : "sounds/2-Dept_Acad.mp3"
     },
     {
@@ -356,6 +386,7 @@
         "indication": "Bloque B",
         "point": ["P0900"],
         "ParentSection": "40",
+        "image": "assets/img/40-Ciencias_Exactas.JPG",
         "sound" : "sounds/40-Ciencias_Exactas.mp3"
     },
     {
@@ -365,6 +396,7 @@
         "indication": "Bloque H",
         "point": ["P1300"],
         "ParentSection": "40",
+        "image": "assets/img/40-Ciencias_Computación.JPG",
         "sound" : "sounds/40-Ciencias_Computacion.mp3"
     },
     {
@@ -374,6 +406,7 @@
         "indication": "Bloque B",
         "point": ["P0900"],
         "ParentSection": "40",
+        "image": "assets/img/40-Ciencias_Energía_Mecánica.JPG",
         "sound" : "sounds/40-Ciencias_Mecanica.mp3"
     },
     {
@@ -383,6 +416,7 @@
         "indication": "Bloque A",
         "point": ["P0800"],
         "ParentSection": "40",
+        "image": "assets/img/40-Ciencias_Tierra_Construcción.JPG",
         "sound" : "sounds/40-Ciencias_Construccion.mp3"
     },
     {
@@ -392,6 +426,7 @@
         "indication": "Corredor Bloque A ",
         "point": ["P0800"],
         "ParentSection": "40",
+        "image": "assets/img/40-Ciencias_Vida_Agricultura.JPG",
         "sound" : "sounds/40-Ciencias_Agricultura.mp3"
     },
     {
@@ -401,6 +436,7 @@
         "indication": "Bloque A",
         "point": ["P0800"],
         "ParentSection": "40",
+        "image": "assets/img/40-Ciencias_Comercio.JPG",
         "sound" : "sounds/40-Ciencias_Comercio.mp3"
     },
     {
@@ -410,6 +446,7 @@
         "indication": "Bloque B",
         "point": ["P0900"],
         "ParentSection": "40",
+        "image": "assets/img/40-Seguridad_Defensa.JPG",
         "sound" : "sounds/40-Seguridad_Defensa.mp3"
     },
     {
@@ -419,6 +456,7 @@
         "indication": "Bloque B",
         "point": ["P0900"],
         "ParentSection": "40",
+        "image": "assets/img/40-Eléctrica_Telecomunicaciones.JPG",
         "sound" : "sounds/40-Electrica.mp3"
     },
     {
@@ -428,6 +466,7 @@
         "indication": "Bloque C",
         "point": ["P1300"],
         "ParentSection": "40",
+        "image": "assets/img/40-MED.JPG",
         "sound" : "sounds/40-MED.mp3"
     },
     {
@@ -437,6 +476,7 @@
         "indication": "Bloque D",
         "point": ["P1400"],
         "ParentSection": "40",
+        "image": "assets/img/40-Posgrados.JPG",
         "sound" : "sounds/40-Posgrados.mp3"
     },
     {
@@ -446,6 +486,7 @@
         "indication": "Bloque B ",
         "point": ["P0900"],
         "ParentSection": "40",
+        "image": "assets/img/40-Ciencias_Humanas.JPG",
         "sound" : "sounds/40-Departamento_Sociales.mp3"
     },
     {
@@ -454,6 +495,7 @@
         "indication": "",
         "point": ["P1600"],
         "ParentSection": "3",
+        "image": "assets/img/3-Vestidores_Limpieza.JPG",
         "sound" : "sounds/3-Vestidores.mp3"
     },
     {
@@ -462,6 +504,7 @@
         "indication": "",
         "point": ["P1700"],
         "ParentSection": "3",
+        "image": "assets/img/3-Transporte.JPG",
         "sound" : "sounds/3-Transporte.mp3"
     },
     {
@@ -471,6 +514,7 @@
         "indication": "Corredor Bloque B",
         "point": ["P0900", "P1800", "P1801"],
         "ParentSection": "3",
+        "image": "assets/img/3-CICTE.JPG",
         "sound" : "sounds/3-CICTE.mp3"
     },
     {
@@ -480,6 +524,7 @@
         "indication": "Bloque A",
         "point": ["P0800"],
         "ParentSection": "3",
+        "image": "assets/img/3-Unidad_Presecial.JPG",
         "sound" : "sounds/3-Presencial.mp3"
     },
     {
@@ -489,6 +534,7 @@
         "indication": "Bloque A",
         "point": ["P0800"],
         "ParentSection": "3",
+        "image": "assets/img/",
         "sound" : "sounds/"
     },
     {
@@ -498,6 +544,7 @@
         "indication": "Bloque A",
         "point": ["P0800"],
         "ParentSection": "3",
+        "image": "assets/img/3-Vicerrectorado_Docencia.JPG",
         "sound" : "sounds/3-Vicerrectorado_Docencia.mp3"
     },
     {
@@ -507,6 +554,7 @@
         "indication": "Corredor Bloque B",
         "point": ["P0900"],
         "ParentSection": "3",
+        "image": "assets/img/3-ASPE.JPG",
         "sound" : "sounds/3-ASPE.mp3"
     },
     {
@@ -515,6 +563,7 @@
         "floor": "Segundo Piso",
         "point": ["P0500"],
         "ParentSection": "3",
+        "image": "assets/img/3-Asociación_Investigadores.JPG",
         "sound" : "sounds/3-Asoc_Doc_Invs.mp3"
     },
     {
@@ -522,6 +571,7 @@
         "description": "Innovativa Empresa Pública",
         "point": ["P2000"],
         "ParentSection": "3",
+        "image": "assets/img/3-Innovativa.JPG",
         "sound" : "sounds/3-Innovativa.mp3"
     },
     {
@@ -529,6 +579,7 @@
         "description": "Innovativa Transferencia y Desarrollo Tecnológico",
         "point": ["P2100", "P2101"],
         "ParentSection": "3",
+        "image": "assets/img/",
         "sound" : "sounds/3-Innovativa-transf.mp3"
     },
     {
@@ -538,6 +589,7 @@
         "indication": "Residencia Bloque B",
         "point": ["P2200"],
         "ParentSection": "3",
+        "image": "assets/img/3-Archivo_General.JPG",
         "sound" : "sounds/3-Archivo_General.mp3"
     },
     {
@@ -545,6 +597,7 @@
         "description": "Editorial Politecnica",
         "point": ["P2300"],
         "ParentSection": "3",
+        "image": "assets/img/3-Editorial_Politécnica.JPG",
         "sound" : "sounds/3-Editorial_Politecnica.mp3"
     },
     {
@@ -554,6 +607,7 @@
         "indication": "Residencia A",
         "point": ["P2400", "P2401"],
         "ParentSection": "3",
+        "image": "assets/img/3-Dirección_Servicios_Universitarios.JPG",
         "sound" : "sounds/3-Servicios_U.mp3",
         "hasOtherOption": true
     },
@@ -564,6 +618,7 @@
         "indication": "Residencia A",
         "point": ["P2400", "P2401"],
         "ParentSection": "3",
+        "image": "assets/img/3-Desarrollo_Físico.JPG",
         "sound" : "sounds/3-Desarrollo_Fisisco.mp3",
         "hasOtherOption": true
     },
@@ -574,6 +629,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "4",
+        "image": "assets/img/4-Laboratorios_Mecánica.JPG",
         "sound" : "sounds/4-Lab_Mec.mp3"
     },
     {
@@ -583,6 +639,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "4",
+        "image": "assets/img/4-Laboratorios_Construcción.JPG",
         "sound" : "sounds/4-Lab_Tierra.mp3"
     },
     {
@@ -592,6 +649,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "4",
+        "image": "assets/img/4-Laboratorios_Electrica.JPG",
         "sound" : "sounds/4-Lab_elect.mp3"
     },
     {
@@ -601,6 +659,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "4",
+        "image": "assets/img/4-Laboratorios_Vida.JPG",
         "sound" : "sounds/4-lab_vida.mp3"
     },
     {
@@ -610,6 +669,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "4",
+        "image": "assets/img/4-Laboratorios_Exactas.JPG",
         "sound" : "sounds/2-lab_exactas.mp3"
     },
     {
@@ -619,6 +679,7 @@
         "indication": "-",
         "point": ["P2500"],
         "ParentSection": "71",
+        "image": "assets/img/71-Metrología.JPG",
         "sound" : "sounds/71-metrologia.mp3"
     },
     {
@@ -628,6 +689,7 @@
         "indication": "-",
         "point": ["P2500"],
         "ParentSection": "71",
+        "image": "assets/img/71-Mecanismos_CAE.JPG",
         "sound" : "sounds/71-CAD.mp3"
     },
     {
@@ -637,6 +699,7 @@
         "indication": "-",
         "point": ["P2500"],
         "ParentSection": "71",
+        "image": "assets/img/71-Robotica_Mecatrónica.JPG",
         "sound" : "sounds/71-robo.mp3"
     },
     {
@@ -646,6 +709,7 @@
         "indication": "-",
         "point": ["P2600"],
         "ParentSection": "71",
+        "image": "assets/img/71-Conservacion_Energía.JPG",
         "sound" : "sounds/71-conservacion.mp3"
     },
     {
@@ -655,6 +719,7 @@
         "indication": "-",
         "point": ["P2600"],
         "ParentSection": "71",
+        "image": "assets/img/71-Fluidos.JPG",
         "sound" : "sounds/71-fluidos.mp3"
     },
     {
@@ -664,6 +729,7 @@
         "indication": "-",
         "point": ["P2600"],
         "ParentSection": "71",
+        "image": "assets/img/71-Manofactura_Motores.JPG",
         "sound" : "sounds/71-manufactura.mp3"
     },
     {
@@ -673,6 +739,7 @@
         "indication": "-",
         "point": ["P2700"],
         "ParentSection": "71",
+        "image": "assets/img/71-Ciencia_Materiales.JPG",
         "sound" : "sounds/71-ciencia_mat.mp3"
     },
     {
@@ -682,6 +749,7 @@
         "indication": "-",
         "point": ["P2800"],
         "ParentSection": "72",
+        "image": "assets/img/72-Geográfica.JPG",
         "sound" : "sounds/72-geo.mp3"
     },
     {
@@ -691,6 +759,7 @@
         "indication": "-",
         "point": ["P2900"],
         "ParentSection": "72",
+        "image": "assets/img/72-Suelos.JPG",
         "sound" : "sounds/72-suelos.mp3"
     },
     {
@@ -700,6 +769,7 @@
         "indication": "-",
         "point": ["P3000"],
         "ParentSection": "72",
+        "image": "assets/img/72-Ambiental.JPG",
         "sound" : "sounds/72-Ambiental.mp3"
     },
     {
@@ -709,6 +779,7 @@
         "indication": "-",
         "point": ["P1000"],
         "ParentSection": "72",
+        "image": "assets/img/72-Estructuras_sismoresistentes.JPG",
         "sound" : "sounds/72-sismoresistentes.mp3"
     },
     {
@@ -718,6 +789,7 @@
         "indication": "-",
         "point": ["P3100"],
         "ParentSection": "73",
+        "image": "assets/img/73-C2_Circuitos.JPG",
         "sound" : "sounds/72-C2.mp3"
     },
     {
@@ -727,6 +799,7 @@
         "indication": "-",
         "point": ["P3100"],
         "ParentSection": "73",
+        "image": "assets/img/73-C1_Eléctrica.JPG",
         "sound" : "sounds/73-domotica.mp3"
     },
     {
@@ -736,6 +809,7 @@
         "indication": "-",
         "point": ["P3100"],
         "ParentSection": "73",
+        "image": "assets/img/73-B2_Telecomunicaciones.JPG",
         "sound" : "sounds/73-B2.mp3"
     },
     {
@@ -745,6 +819,7 @@
         "indication": "-",
         "point": ["P3100"],
         "ParentSection": "73",
+        "image": "assets/img/73-B1_Electrónica.JPG",
         "sound" : "sounds/73-b1.mp3"
     },
     {
@@ -754,6 +829,7 @@
         "indication": "-",
         "point": ["P3200"],
         "ParentSection": "73",
+        "image": "assets/img/73-A_Electrónica.JPG",
         "sound" : "sounds/73-b1.mp3"
     },
     {
@@ -763,6 +839,7 @@
         "indication": "-",
         "point": ["P3000"],
         "ParentSection": "74",
+        "image": "assets/img/74-Biotecnología_Vegetal.JPG",
         "sound" : "sounds/74_Biotecnologia_Vegetal.mp3"
     },
     {
@@ -772,6 +849,7 @@
         "indication": "-",
         "point": ["P3300"],
         "ParentSection": "74",
+        "image": "assets/img/74-Biotecnología_Animal.JPG",
         "sound" : "sounds/74-Biotecnologia_Animal.mp3"
     },
     {
@@ -781,6 +859,7 @@
         "indication": "Bloque G",
         "point": ["P1300"],
         "ParentSection": "74",
+        "image": "assets/img/74-Biotecnología_Docencia.JPG",
         "sound" : "sounds/74-Biotecnologia_Docencia.mp3"
     },
     {
@@ -790,6 +869,7 @@
         "indication": "-",
         "point": ["P1000"],
         "ParentSection": "74",
+        "image": "assets/img/74-Microbiología_Suelos.JPG",
         "sound" : "sounds/74-micro_Suelos.mp3"
     },
     {
@@ -799,6 +879,7 @@
         "indication": "-",
         "point": ["P3400"],
         "ParentSection": "75",
+        "image": "assets/img/75-Física.JPG",
         "sound" : "sounds/74-fisica.mp3"
     },
     {
@@ -808,6 +889,7 @@
         "indication": "-",
         "point": ["P3500"],
         "ParentSection": "75",
+        "image": "assets/img/75-Química.JPG",
         "sound" : "sounds/75-quimica.mp3"
     },
     {
@@ -817,6 +899,7 @@
         "indication": "-",
         "point": ["P3600"],
         "ParentSection": "75",
+        "image": "assets/img/75-Multidisiplinario-N4.JPG",
         "sound" : "sounds/75-multi-N4.mp3"
     },
     {
@@ -826,6 +909,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "5",
+        "image": "assets/img/5-Residencia_Universitaria.JPG",
         "sound" : "sounds/5-Residencia.mp3"
     },
     {
@@ -835,6 +919,7 @@
         "indication": "-",
         "point": ["P3900"],
         "ParentSection": "5",
+        "image": "assets/img/5-Gimnasio.JPG",
         "sound" : "sounds/5-Gimnasio.mp3"
     },
     {
@@ -844,6 +929,7 @@
         "indication": "-",
         "point": ["P4000"],
         "ParentSection": "5",
+        "image": "assets/img/5-Fogon_Universitario.JPG",
         "sound" : "sounds/5-fogon.mp3"
     },
     {
@@ -853,6 +939,7 @@
         "indication": "-",
         "point": ["P0600"],
         "ParentSection": "5",
+        "image": "assets/img/5-Coliseo.JPG",
         "sound" : "sounds/5-Coliseo.mp3"
     },
     {
@@ -862,6 +949,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "5",
+        "image": "assets/img/5-Comedor.png",
         "sound" : "sounds/5-Comedores.mp3"
     },
     {
@@ -871,6 +959,7 @@
         "indication": "-",
         "point": ["P4500"],
         "ParentSection": "5",
+        "image": "assets/img/5-Copiadora.JPG",
         "sound" : "sounds/5-Copiadora.mp3"
     },
     {
@@ -880,6 +969,7 @@
         "indication": "-",
         "point": ["P4600"],
         "ParentSection": "5",
+        "image": "assets/img/5-Prevención_Entrada_Principal.JPG",
         "sound" : "sounds/"
     },
     {
@@ -889,6 +979,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "5",
+        "image": "assets/img/5-Caseta_Parking.JPG",
         "sound" : "sounds/5-Prevencion.mp3"
     },
     {
@@ -898,6 +989,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "5",
+        "image": "assets/img/5-Cajero.png",
         "sound" : "sounds/5-Cajeros.mp3"
     },
     {
@@ -907,6 +999,7 @@
         "indication": "-",
         "point": ["P5000"],
         "ParentSection": "5",
+        "image": "assets/img/5-Bazar_Innovativa_ESPE.JPG",
         "sound" : "sounds/5-Bazar.mp3"
     },
     {
@@ -916,6 +1009,7 @@
         "indication": "-",
         "point": ["P7200"],
         "ParentSection": "5",
+        "image": "assets/img/5-Policlínico.JPG",
         "sound" : "sounds/5-Policlinico.mp3"
     },
     {
@@ -925,6 +1019,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "6",
+        "image": "assets/img/6-Canchas_Fútbol.png",
         "sound" : "sounds/6-canchas-f.mp3"
     },
     {
@@ -934,6 +1029,7 @@
         "indication": "-",
         "point": ["P5400","P5401"],
         "ParentSection": "6",
+        "image": "assets/img/6-Cancha_Baloncesto.JPG",
         "sound" : "sounds/6-cancha-b.mp3"
     },
     {
@@ -943,6 +1039,7 @@
         "indication": "-",
         "point": ["P5500", "P5501"],
         "ParentSection": "6",
+        "image": "assets/img/6-Cancha_Tenis.JPG",
         "sound" : "sounds/6-Cancha-t.mp3"
     },
     {
@@ -952,6 +1049,7 @@
         "indication": "-",
         "point": ["P5600", "P5601"],
         "ParentSection": "6",
+        "image": "assets/img/6-Cancha_Voleibol.JPG",
         "sound" : "sounds/6-Cancha_V.mp3"
     },
     {
@@ -961,6 +1059,7 @@
         "indication": "-",
         "point": ["-"],
         "ParentSection": "6",
+        "image": "assets/img/6-Parques.png",
         "sound" : "sounds/6-Parques.mp3"
     },
     {
@@ -970,6 +1069,7 @@
         "indication": "-",
         "point": ["P6000"],
         "ParentSection": "6",
+        "image": "assets/img/6-Estadio_Principal.JPG",
         "sound" : "sounds/6-Estadio_Principal.mp3"
     },
     {
@@ -979,6 +1079,7 @@
         "indication": "-",
         "point": ["P6100", "P6101", "P6102", "P6103", "P6104", "P6105"],
         "ParentSection": "6",
+        "image": "assets/img/6-Estadio_Alterno.JPG",
         "sound" : "sounds/6-Estadio_Alterno.mp3"
     },
     {
@@ -988,6 +1089,7 @@
         "indication": "-",
         "point": ["P6200"],
         "ParentSection": "6",
+        "image": "assets/img/6-Capilla.JPG",
         "sound" : "sounds/6-Capilla.mp3"
     },
     {
@@ -997,6 +1099,7 @@
         "indication": "-",
         "point": ["P6300"],
         "ParentSection": "7",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/7-Coro.mp3"
     },
     {
@@ -1006,6 +1109,7 @@
         "indication": "Residencia Bloque A",
         "point": ["P2400", "P2401"],
         "ParentSection": "7",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/27-Ecologico.mp3"
     },
     {
@@ -1015,6 +1119,7 @@
         "indication": "-",
         "point": ["P6400"],
         "ParentSection": "7",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/7-Robotica.mp3"
     },
     {
@@ -1024,6 +1129,7 @@
         "indication": "Residencia Bloque A",
         "point": ["P2400"],
         "ParentSection": "7",
+        "image": "assets/img/7-Fotografía_Pintura.JPG",
         "sound" : "sounds/7-Foto.mp3"
     },
     {
@@ -1033,6 +1139,7 @@
         "indication": "Residencia Bloque B",
         "point": ["P6500"],
         "ParentSection": "7",
+        "image": "assets/img/7-Cerámica_Vidrio.JPG",
         "sound" : "sounds/7-cera.mp3"
     },
     {
@@ -1042,6 +1149,7 @@
         "indication": "-",
         "point": ["P6600"],
         "ParentSection": "7",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/7-Cuerdas.mp3"
     },
     {
@@ -1051,6 +1159,7 @@
         "indication": "-",
         "point": ["P6700"],
         "ParentSection": "7",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/7-Juventud_ESPE.mp3"
     },
     {
@@ -1060,6 +1169,7 @@
         "indication": "-",
         "point": ["P6800"],
         "ParentSection": "7",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/7-ASME.mp3"
     },
     {
@@ -1069,6 +1179,7 @@
         "indication": "-",
         "point": ["P6900"],
         "ParentSection": "7",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/7-Danza.mp3"
     },
     {
@@ -1078,6 +1189,7 @@
         "indication": "-",
         "point": ["P7000"],
         "ParentSection": "7",
+        "image": "assets/img/7-Gastrónomia.JPG",
         "sound" : "sounds/7-Gastro.mp3"
     },
     {
@@ -1087,6 +1199,7 @@
         "indication": "-",
         "point": ["P7100"],
         "ParentSection": "7",
+        "image": "assets/img/clubs.png",
         "sound" : "sounds/7-max.mp3"
     },
     {
@@ -1096,6 +1209,7 @@
         "indication": "-",
         "point": ["P1900"],
         "ParentSection": "8",
+        "image": "assets/img/8-Entrada_Pirncipal.JPG",
         "sound" : "sounds/8-Entrada_Principal.mp3"
     },
     {
@@ -1105,6 +1219,7 @@
         "indication": "-",
         "point": ["P4400"],
         "ParentSection": "8",
+        "image": "assets/img/8-Entrada_Alterna.JPG",
         "sound" : "sounds/8-Entrada_Alterna.mp3"
     }
 ]

@@ -103,7 +103,10 @@ class _BtnHomeStartState extends State<BtnHomeStart> {
                       borderRadius: BorderRadius.all(Radius.circular(40))),
                   fixedSize: const Size(300.0, 35.0),
                   primary: Pallette.primary.dark),
-              onPressed: () => Navigator.pushNamed(context, "destiny"),
+              onPressed: () {
+                audioCache.play("sounds/seleccion_destino.mp3");
+                Navigator.pushNamed(context, "destiny");
+              },
               child: const Text("Empezar"),
             )
           ],
