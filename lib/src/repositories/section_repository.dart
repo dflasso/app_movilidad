@@ -31,13 +31,13 @@ List<SectionModel> filterSection(
 SectionModel getDefaultSection() {
   return SectionModel(
       idSection: "xx",
-      description: "Error al obtener datos del destino",
+      description: "destino registrado",
       floor: "-",
       indication: "-",
       point: ["P0100"],
       parentSection: "x",
       image: "https://via.placeholder.com/400x300",
-      sound: "sounds/destino_desconocido.mp3",
+      sound: "sounds/viaje_finalizado.mp3",
       soundTripFinished: "sounds/viaje_finalizado.mp3",
       hasOtherOption: false);
 }

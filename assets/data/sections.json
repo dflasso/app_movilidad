@@ -1093,36 +1093,6 @@
         "sound" : "sounds/6-Capilla.mp3"
     },
     {
-        "idSection": "126",
-        "description": "Coro",
-        "floor": "-",
-        "indication": "-",
-        "point": ["P6300"],
-        "ParentSection": "7",
-        "image": "assets/img/clubs.png",
-        "sound" : "sounds/7-Coro.mp3"
-    },
-    {
-        "idSection": "127",
-        "description": "Ecológico",
-        "floor": "Segundo Piso ",
-        "indication": "Residencia Bloque A",
-        "point": ["P2400", "P2401"],
-        "ParentSection": "7",
-        "image": "assets/img/clubs.png",
-        "sound" : "sounds/27-Ecologico.mp3"
-    },
-    {
-        "idSection": "129",
-        "description": "Róbotica",
-        "floor": "-",
-        "indication": "-",
-        "point": ["P6400"],
-        "ParentSection": "7",
-        "image": "assets/img/clubs.png",
-        "sound" : "sounds/7-Robotica.mp3"
-    },
-    {
         "idSection": "130",
         "description": "Fotografía y Pintura",
         "floor": "Segundo Piso ",
@@ -1143,46 +1113,6 @@
         "sound" : "sounds/7-cera.mp3"
     },
     {
-        "idSection": "133",
-        "description": "Ensamble de Cuerdas",
-        "floor": "-",
-        "indication": "-",
-        "point": ["P6600"],
-        "ParentSection": "7",
-        "image": "assets/img/clubs.png",
-        "sound" : "sounds/7-Cuerdas.mp3"
-    },
-    {
-        "idSection": "134",
-        "description": "Juventud ESPE",
-        "floor": "-",
-        "indication": "-",
-        "point": ["P6700"],
-        "ParentSection": "7",
-        "image": "assets/img/clubs.png",
-        "sound" : "sounds/7-Juventud_ESPE.mp3"
-    },
-    {
-        "idSection": "135",
-        "description": "ASME",
-        "floor": "-",
-        "indication": "-",
-        "point": ["P6800"],
-        "ParentSection": "7",
-        "image": "assets/img/clubs.png",
-        "sound" : "sounds/7-ASME.mp3"
-    },
-    {
-        "idSection": "136",
-        "description": "Danza Contemporánea",
-        "floor": "-",
-        "indication": "-",
-        "point": ["P6900"],
-        "ParentSection": "7",
-        "image": "assets/img/clubs.png",
-        "sound" : "sounds/7-Danza.mp3"
-    },
-    {
         "idSection": "137",
         "description": "Gastronomía",
         "floor": "-",
@@ -1191,16 +1121,6 @@
         "ParentSection": "7",
         "image": "assets/img/7-Gastrónomia.JPG",
         "sound" : "sounds/7-Gastro.mp3"
-    },
-    {
-        "idSection": "138",
-        "description": "ESPE al Máximo",
-        "floor": "-",
-        "indication": "-",
-        "point": ["P7100"],
-        "ParentSection": "7",
-        "image": "assets/img/clubs.png",
-        "sound" : "sounds/7-max.mp3"
     },
     {
         "idSection": "139",

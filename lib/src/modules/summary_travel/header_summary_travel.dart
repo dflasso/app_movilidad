@@ -41,7 +41,8 @@ class HeaderSummaryTravel extends StatelessWidget {
                 height: size.height * 0.25,
                 width: size.width * 0.55,
                 placeholder: const AssetImage('assets/img/loading.gif'),
-                image: NetworkImage(destinySelected.image),
+                image: const NetworkImage(
+                    "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_ESPEOk.png"),
                 fit: BoxFit.cover,
                 fadeInDuration: const Duration(milliseconds: 100),
               )),
